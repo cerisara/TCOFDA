@@ -1,0 +1,5 @@
+This corpus and annotations are distributed under the CC BY-NC-SA 2.0 license:
+https://creativecommons.org/licenses/by-nc-sa/2.0/deed.fr
+
+The original transcriptions of the conversations come from https://www.ortolang.fr/market/corpora/tcof
+
