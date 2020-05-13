@@ -1,0 +1,1904 @@
+1	tu	tu	CLS	CLS	_	3	SUJ	_	_	0.38	0.43	L1
+2	me	me	CLI	CLI	_	3	AFF	_	_	0.55	0.57	L1
+3	feras	faire	VRB	VRB	_	0	ROOT	_	_	0.58	0.66	L1
+4	penser	penser	VNF	VNF	_	3	COMP	_	_	0.71	0.84	L1
+5	à	à	PRE	PRE	_	3	COMP	_	_	0.88	0.9	L1
+6	appeler	appeler	VNF	VNF	_	5	COMP	_	_	1.0	1.11	L1
+7	mon	ma	DET	DET	_	8	SPEC	_	_	1.12	1.18	L1
+8	frère	frère	NOM	NOM	_	6	COMP	_	_	1.71	1.82	L1
+9	tout	tout	ADV	ADV	_	8	COMP	_	_	1.83	1.89	L1
+10	à	à	PRE	PRE	_	8	COMP	_	_	1.9	1.93	L1
+11	l'	la	DET	DET	_	12	SPEC	_	_	1.94	1.98	L1
+12	heure	heure	NOM	NOM	_	10	COMP	_	_	1.99	2.07	L1
+
+1	ton	ta	DET	DET	_	2	SPEC	_	_	2.49	2.6	L2
+2	frère	frère	NOM	NOM	_	0	ROOT	_	_	2.61	2.8	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	2.97	3.1	L1
+2	mais	mais	COO	COO	_	0	ROOT	_	_	4.1	4.15	L1
+3	je	je	CLS	CLS	_	4	SUJ	_	_	4.16	4.22	L1
+4	veux	vouloir	VRB	VRB	_	2	COMP	_	_	4.23	4.35	L1
+5	pas	pas	ADN	ADN	_	4	COMP	_	_	4.36	4.46	L1
+6	que	que	CSU	CSU	_	4	COMP	_	_	4.47	4.49	L1
+7	tu	tu	CLS	CLS	_	8	SUJ	_	_	4.5	4.56	L1
+8	écoutes	écouter	VRB	VRB	_	6	COMP	_	_	4.57	4.8	L1
+9	quand	quand	CSU	CSU	_	8	COMP	_	_	5.11	5.24	L1
+10	je	je	CLS	CLS	_	12	SUJ	_	_	5.25	5.51	L1
+11	l'	le	CLI	CLI	_	12	COMP	_	_	5.6	5.64	L1
+12	appelle	appeler	VRB	VRB	_	9	COMP	_	_	5.7	5.84	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	3.86	3.88	L2
+
+1	si	si	CSU	CSU	_	0	ROOT	_	_	6.16	6.31	L2
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	6.41	6.45	L2
+3	est	être	VRB	VRB	_	1	COMP	_	_	6.46	6.53	L2
+4	pour	pour	PRE	PRE	_	3	COMP	_	_	6.54	6.66	L2
+5	mon	ma	DET	DET	_	6	SPEC	_	_	6.67	6.8	L2
+6	cadeau	cadeau	NOM	NOM	_	4	COMP	_	_	6.81	6.97	L2
+7	de	de	PRE	PRE	_	6	COMP	_	_	7.04	7.06	L2
+8	Noël	_	NOM	NOM	_	7	COMP	_	_	7.3	7.41	L2
+
+1	non	non	INT	INT	_	0	ROOT	_	_	7.61	7.79	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	8.32	8.34	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	8.35	8.41	L2
+3	pour	pour	PRE	PRE	_	2	COMP	_	_	8.56	8.64	L2
+4	le	la	DET	DET	_	5	SPEC	_	_	8.65	8.76	L2
+5	cadeau	cadeau	NOM	NOM	_	3	COMP	_	_	8.77	9.1	L2
+6	de	de	PRE	PRE	_	5	COMP	_	_	9.11	9.17	L2
+7	Noël	_	NOM	NOM	_	6	COMP	_	_	9.31	9.49	L2
+
+1	tu	tu	CLS	CLS	_	2	SUJ	_	_	12.78	12.86	L2
+2	peux	pouvoir	VRB	VRB	_	0	ROOT	_	_	12.9	13.18	L2
+3	aller	aller	VNF	VNF	_	2	COMP	_	_	13.33	13.68	L2
+4	chercher	chercher	VNF	VNF	_	3	COMP	_	_	13.69	14.06	L2
+5	ma	ma	DET	DET	_	6	SPEC	_	_	14.07	14.34	L2
+6	pommade	pommade	NOM	NOM	_	4	COMP	_	_	14.5	14.72	L2
+7	dans	dans	PRE	PRE	_	0	ROOT	_	_	14.9	14.99	L2
+
+1	le	la	DET	DET	_	0	ROOT	_	_	17.12	17.34	L2
+
+1	je	je	CLS	CLS	_	3	SUJ	_	_	17.4	17.48	L1
+2	te	te	CLI	CLI	_	3	COMP	_	_	17.49	17.61	L1
+3	rapporte	rapporter	VRB	VRB	_	0	ROOT	_	_	17.62	17.91	L1
+4	ton	ta	DET	DET	_	5	SPEC	_	_	17.95	18.02	L1
+5	sac	sac	NOM	NOM	_	3	COMP	_	_	18.03	18.11	L1
+6	si	si	CSU	CSU	_	3	COMP	_	_	18.27	18.34	L1
+7	tu	tu	CLS	CLS	_	8	SUJ	_	_	18.56	18.62	L1
+8	veux	vouloir	VRB	VRB	_	6	COMP	_	_	18.69	18.81	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	19.15	19.24	L2
+2	ben	ben	INT	INT	_	1	DISFLINK	_	_	19.25	19.33	L2
+3	non	non	INT	INT	_	0	ROOT	_	_	19.34	19.64	L2
+4	c'	ce	CLS	CLS	_	5	SUJ	_	_	19.71	19.73	L2
+5	est	être	VRB	VRB	_	0	ROOT	_	_	19.74	19.83	L2
+6	le	la	DET	DET	_	7	SPEC	_	_	19.84	19.92	L2
+7	gros	gros	ADJ	ADJ	_	5	COMP	_	_	19.93	20.1	L2
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	21.51	21.6	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	21.87	21.89	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	21.9	21.97	L2
+3	dans	dans	PRE	PRE	_	2	COMP	_	_	21.98	22.07	L2
+4	la	la	DET	DET	_	5	SPEC	_	_	22.08	22.22	L2
+5	trousse	trousse	NOM	NOM	_	3	COMP	_	_	22.27	22.43	L2
+6	de	de	PRE	PRE	_	5	COMP	_	_	22.44	22.59	L2
+7	toilette	toilette	NOM	NOM	_	6	COMP	_	_	22.6	22.92	L2
+8	verte	vert	ADJ	ADJ	_	7	COMP	_	_	22.93	23.15	L2
+9	dedans	dedans	ADV	ADV	_	11	COMP	_	_	23.61	23.93	L2
+10	il	il	CLS	CLS	_	11	SUJ	_	_	23.94	23.99	L2
+11	faut	faillir	VRB	VRB	_	0	ROOT	_	_	24.04	24.1	L2
+12	que	que	CSU	CSU	_	11	COMP	_	_	24.11	24.14	L2
+13	tu	tu	CLS	CLS	_	14	SUJ	_	_	24.19	24.25	L2
+14	montes	monter	VRB	VRB	_	12	COMP	_	_	24.26	24.54	L2
+15	sur	sur	PRE	PRE	_	14	COMP	_	_	24.55	24.64	L2
+16	une	un	DET	DET	_	17	SPEC	_	_	24.68	24.81	L2
+17	chaise	chaise	NOM	NOM	_	15	COMP	_	_	24.82	25.08	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	25.43	25.51	L1
+
+1	je	je	CLS	CLS	_	3	SUJ	_	_	26.91	27.0	L1
+2	te	te	CLI	CLI	_	3	COMP	_	_	27.01	27.11	L1
+3	retourne	retourner	VRB	VRB	_	0	ROOT	_	_	27.12	27.66	L1
+4	tout	tout	ADV	ADV	_	3	COMP	_	_	27.67	27.78	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	29.41	29.53	L2
+
+1	aller	aller	VNF	VNF	_	0	ROOT	_	_	31.35	31.44	L2
+
+1	arrête	arrêter	VRB	VRB	_	0	ROOT	_	_	32.42	32.74	L2
+
+1	on	on	CLS	CLS	_	2	SUJ	_	_	37.44	37.62	L2
+2	regarde	regarder	VRB	VRB	_	0	ROOT	_	_	37.63	37.9	L2
+3	pour	pour	PRE	PRE	_	2	COMP	_	_	37.91	38.11	L2
+4	les	la	DET	DET	_	0	ROOT	_	_	38.12	38.19	L2
+
+1	là	là	ADV	ADV	_	0	ROOT	_	_	38.25	38.39	L1
+2	dans	dans	PRE	PRE	_	0	ROOT	_	_	38.4	38.55	L1
+3	là-dedans	là-dedans	ADV	ADV	_	0	ROOT	_	_	38.56	38.86	L1
+4	dans	dans	PRE	PRE	_	0	ROOT	_	_	38.87	38.96	L1
+5	la	la	DET	DET	_	7	SPEC	_	_	39.18	39.36	L1
+6	petite	petit	ADJ	ADJ	_	7	COMP	_	_	39.37	39.49	L1
+7	truc	truc	NOM	NOM	_	4	COMP	_	_	39.61	39.83	L1
+8	euh	euh	INT	INT	_	7	DISFLINK	_	_	39.84	40.08	L1
+9	couleur	couleur	NOM	NOM	_	7	COMP	_	_	40.2	40.37	L1
+10	pomme	pomme	NOM	NOM	_	9	COMP	_	_	40.45	40.74	L1
+11	là	là	ADV	ADV	_	0	ROOT	_	_	40.75	40.8	L1
+
+1	verte	vert	ADJ	ADJ	_	0	ROOT	_	_	41.01	41.23	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	41.53	41.7	L2
+2	verte	vert	ADJ	ADJ	_	3	COMP	_	_	41.92	42.07	L2
+3	pomme	pomme	NOM	NOM	_	0	ROOT	_	_	42.31	42.59	L2
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	42.65	42.74	L1
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	42.75	42.77	L1
+3	est	être	VRB	VRB	_	1	COMP	_	_	42.78	42.89	L1
+4	vide	vide	ADJ	ADJ	_	3	COMP	_	_	42.9	43.26	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	43.92	44.52	L2
+2	elle	il	CLS	CLS	_	3	SUJ	_	_	44.53	44.58	L2
+3	est	être	VRB	VRB	_	0	ROOT	_	_	44.59	44.66	L2
+4	pas	pas	ADN	ADN	_	3	COMP	_	_	44.67	44.74	L2
+5	vide	vide	ADJ	ADJ	_	3	COMP	_	_	44.75	44.83	L2
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	45.12	45.4	L1
+2	si	si	CSU	CSU	_	0	ROOT	_	_	45.44	45.6	L1
+
+1	à	à	PRE	PRE	_	0	ROOT	_	_	45.92	46.13	L2
+2	l'	la	DET	DET	_	3	SPEC	_	_	46.19	46.22	L2
+3	intérieur	intérieur	NOM	NOM	_	1	COMP	_	_	46.23	46.63	L2
+
+1	hein	hein	INT	INT	_	0	ROOT	_	_	46.86	47.05	L1
+2	ça	cela	PRO	PRO	_	3	SUJ	_	_	47.26	47.41	L1
+3	vitamine	vitaminer	VRB	VRB	_	0	ROOT	_	_	47.71	48.2	L1
+4	A	_	NOM	NOM	_	3	COMP	_	_	48.21	48.26	L1
+
+1	vitamine	vitamine	NOM	NOM	_	0	ROOT	_	_	48.32	48.68	L2
+2	A	_	NOM	NOM	_	1	COMP	_	_	48.79	48.85	L2
+3	voilà	voilà	INT	INT	_	2	DISFLINK	_	_	48.86	49.06	L2
+4	voilà	voilà	INT	INT	_	3	DISFLINK	_	_	49.91	50.16	L2
+5	mets	mettre	VRB	VRB	_	0	ROOT	_	_	51.01	51.13	L2
+6	à	à	PRE	PRE	_	5	COMP	_	_	51.14	51.21	L2
+7	côté	côté	NOM	NOM	_	6	COMP	_	_	51.22	51.56	L2
+8	de	de	PRE	PRE	_	7	COMP	_	_	51.57	51.59	L2
+9	la	la	DET	DET	_	10	SPEC	_	_	51.6	51.72	L2
+10	table	table	NOM	NOM	_	8	COMP	_	_	51.78	51.97	L2
+11	de	de	PRE	PRE	_	10	COMP	_	_	51.98	52.0	L2
+12	nuit	nuit	NOM	NOM	_	11	COMP	_	_	52.01	52.35	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	54.52	54.7	L1
+
+1	tu	tu	CLS	CLS	_	2	SUJ	_	_	57.96	58.07	L1
+2	regarderas	regarder	VRB	VRB	_	0	ROOT	_	_	58.08	58.56	L1
+3	le	la	DET	DET	_	4	SPEC	_	_	58.57	58.59	L1
+4	film	film	NOM	NOM	_	2	COMP	_	_	58.6	58.87	L1
+5	après	après	PRE	PRE	_	0	ROOT	_	_	58.88	59.15	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	60.06	60.24	L2
+
+1	euh	euh	INT	INT	_	0	ROOT	_	_	60.3	60.32	L1
+2	vers	vers	PRE	PRE	_	0	ROOT	_	_	60.33	60.41	L1
+3	neuf	_	DET	DET	_	4	SPEC	_	_	60.42	60.54	L1
+4	heures	heure	NOM	NOM	_	2	COMP	_	_	60.55	60.66	L1
+5	et	et	COO	COO	_	4	COO	_	_	60.67	60.78	L1
+6	quart	quart	NOM	NOM	_	5	COMP	_	_	60.79	60.88	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	62.03	62.37	L2
+2	à	à	PRE	PRE	_	0	ROOT	_	_	62.38	62.41	L2
+3	neuf	_	DET	DET	_	4	SPEC	_	_	62.42	62.51	L2
+4	heures	heure	NOM	NOM	_	2	COMP	_	_	62.52	62.62	L2
+
+1	non	non	INT	INT	_	0	ROOT	_	_	63.76	63.94	L1
+2	neuf	_	DET	DET	_	3	SPEC	_	_	63.95	64.1	L1
+3	heures	heure	NOM	NOM	_	0	ROOT	_	_	64.11	64.25	L1
+4	et	et	COO	COO	_	3	COO	_	_	64.26	64.32	L1
+5	quart	quart	NOM	NOM	_	4	COMP	_	_	64.33	64.46	L1
+
+1	il	il	CLS	CLS	_	2	SUJ	_	_	64.64	64.73	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	64.74	64.89	L2
+3	quelle	_	DET	DET	_	4	SPEC	_	_	64.9	65.1	L2
+4	heure	heure	NOM	NOM	_	2	COMP	_	_	65.11	65.18	L2
+
+1	neuf	_	DET	DET	_	2	SPEC	_	_	65.88	66.02	L1
+2	heures	heure	NOM	NOM	_	0	ROOT	_	_	66.03	66.09	L1
+3	moins	moins	ADV	ADV	_	2	COMP	_	_	66.1	66.36	L1
+4	le	la	DET	DET	_	5	SPEC	_	_	66.37	66.39	L1
+5	quart	quart	NOM	NOM	_	3	COMP	_	_	66.4	66.53	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	71.85	71.87	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	71.88	71.94	L2
+3	quoi	_	PRQ	PRQ	_	2	COMP	_	_	71.95	72.13	L2
+4	l'	la	DET	DET	_	5	SPEC	_	_	72.14	72.17	L2
+5	invitation	invitation	NOM	NOM	_	2	SUJ	_	_	72.18	72.69	L2
+6	qu'	qu'	PRQ	PRQ	_	10	COMP	_	_	72.7	72.73	L2
+7	il	il	CLS	CLS	_	10	SUJ	_	_	72.78	72.85	L2
+8	t'	te	CLI	CLI	_	10	AFF	_	_	72.86	72.88	L2
+9	a	avoir	VRB	VRB	_	10	AUX	_	_	72.93	72.95	L2
+10	dit	dire	VPP	VPP	_	5	COMP	_	_	73.14	73.21	L2
+11	le	la	DET	DET	_	12	SPEC	_	_	73.22	73.6	L2
+12	NNAAMMEE	_	NOM	NOM	_	10	COMP	_	_	74.24	74.58	L2
+
+1	je	je	CLS	CLS	_	2	SUJ	_	_	75.19	75.26	L1
+2	sais	savoir	VRB	VRB	_	0	ROOT	_	_	75.39	75.54	L1
+3	pas	pas	ADN	ADN	_	2	COMP	_	_	75.55	75.74	L1
+4	c'	ce	CLS	CLS	_	5	SUJ	_	_	75.75	75.78	L1
+5	était	être	VRB	VRB	_	0	ROOT	_	_	75.82	75.96	L1
+6	quoi	_	PRQ	PRQ	_	5	COMP	_	_	75.97	76.05	L1
+7	le	la	DET	DET	_	8	SPEC	_	_	76.06	76.08	L1
+8	mot	mot	NOM	NOM	_	5	SUJ	_	_	76.09	76.14	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	77.37	77.39	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	77.4	77.66	L2
+3	où	_	ADV	ADV	_	2	COMP	_	_	77.67	77.75	L2
+
+1	tu	tu	CLS	CLS	_	2	SUJ	_	_	78.01	78.13	L1
+2	veux	vouloir	VRB	VRB	_	0	ROOT	_	_	78.14	78.25	L1
+3	que	que	CSU	CSU	_	2	COMP	_	_	78.26	78.28	L1
+4	je	je	CLS	CLS	_	6	SUJ	_	_	78.29	78.33	L1
+5	les	le	CLI	CLI	_	6	COMP	_	_	78.34	78.46	L1
+6	appelle	appeler	VRB	VRB	_	3	COMP	_	_	78.47	78.82	L1
+7	je	je	CLS	CLS	_	8	SUJ	_	_	78.89	78.99	L1
+8	peux	pouvoir	VRB	VRB	_	0	ROOT	_	_	79.0	79.11	L1
+9	l'	le	CLI	CLI	_	10	COMP	_	_	79.12	79.16	L1
+10	appeler	appeler	VNF	VNF	_	8	COMP	_	_	79.17	79.31	L1
+11	la	la	DET	DET	_	12	SPEC	_	_	79.32	79.37	L1
+12	NNAAMMEE	_	NOM	NOM	_	10	COMP	_	_	79.38	79.55	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	81.1	81.34	L2
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	82.34	82.42	L1
+2	si	si	CSU	CSU	_	1	COMP	_	_	82.46	82.62	L1
+3	le	la	DET	DET	_	4	SPEC	_	_	82.63	82.67	L1
+4	NNAAMMEE	_	NOM	NOM	_	6	SUJ	_	_	83.01	83.26	L1
+5	il	il	CLS	CLS	_	6	SUJ	_	_	83.27	83.3	L1
+6	travaille	travailler	VRB	VRB	_	1	COMP	_	_	83.31	83.52	L1
+7	de	de	PRE	PRE	_	6	DISFLINK	_	_	83.9	83.96	L1
+8	de	de	PRE	PRE	_	7	DISFLINK	_	_	83.97	84.57	L1
+9	euh	euh	INT	INT	_	8	DISFLINK	_	_	84.58	84.6	L1
+
+1	de	de	PRE	PRE	_	0	ROOT	_	_	84.92	85.04	L2
+2	nuit	nuit	NOM	NOM	_	1	COMP	_	_	85.14	85.34	L2
+3	et	et	COO	COO	_	2	COO	_	_	85.63	85.66	L2
+4	il	il	CLS	CLS	_	5	SUJ	_	_	85.67	85.72	L2
+5	revient	revenir	VRB	VRB	_	3	COMP	_	_	85.73	86.03	L2
+6	à	à	PRE	PRE	_	5	COMP	_	_	86.04	86.1	L2
+7	quelle	_	DET	DET	_	8	SPEC	_	_	86.15	86.31	L2
+8	heure	heure	NOM	NOM	_	6	COMP	_	_	86.32	86.42	L2
+
+1	il	il	CLS	CLS	_	2	SUJ	_	_	89.4	89.66	L1
+2	revient	revenir	VRB	VRB	_	0	ROOT	_	_	89.67	90.68	L1
+
+1	attends	attendre	VRB	VRB	_	0	ROOT	_	_	91.18	91.46	L1
+2	eh#bien	_	ADV	ADV	_	1	COMP	_	_	92.15	92.42	L1
+3	si	si	CSU	CSU	_	1	COMP	_	_	92.53	92.7	L1
+4	il	il	CLS	CLS	_	5	SUJ	_	_	92.71	92.73	L1
+5	revient	revenir	VRB	VRB	_	3	COMP	_	_	92.74	92.95	L1
+6	à	à	PRE	PRE	_	5	COMP	_	_	92.96	92.99	L1
+7	dix	_	DET	DET	_	8	SPEC	_	_	93.0	93.1	L1
+8	heures	heure	NOM	NOM	_	6	COMP	_	_	93.2	93.28	L1
+
+1	je	je	CLS	CLS	_	2	SUJ	_	_	93.78	93.9	L1
+2	peux	pouvoir	VRB	VRB	_	0	ROOT	_	_	93.91	94.0	L1
+3	l'	le	CLI	CLI	_	4	COMP	_	_	94.01	94.05	L1
+4	appeler	appeler	VNF	VNF	_	2	COMP	_	_	94.06	94.39	L1
+
+1	c'	ce	CLS	CLS	_	3	SUJ	_	_	94.88	94.9	L2
+2	est	être	VRB	VRB	_	3	AUX	_	_	94.91	94.93	L2
+3	trempé	tremper	VPP	VPP	_	0	ROOT	_	_	94.94	95.41	L2
+4	partout	_	ADV	ADV	_	3	COMP	_	_	95.42	95.73	L2
+
+1	je	je	CLS	CLS	_	3	SUJ	_	_	96.08	96.18	L1
+2	te	te	CLI	CLI	_	3	COMP	_	_	96.19	96.31	L1
+3	promets	promettre	VRB	VRB	_	0	ROOT	_	_	96.32	96.69	L1
+4	je	je	CLS	CLS	_	6	SUJ	_	_	96.98	97.0	L1
+5	suis	être	VRB	VRB	_	6	AUX	_	_	97.01	97.15	L1
+6	rentré	rentrer	VPP	VPP	_	0	ROOT	_	_	97.16	97.55	L1
+7	c'	ce	CLS	CLS	_	6	DISFLINK	_	_	97.74	97.77	L1
+8	est	être	VRB	VRB	_	7	DISFLINK	_	_	97.78	98.25	L1
+9	c'	ce	CLS	CLS	_	10	SUJ	_	_	98.32	98.39	L1
+10	est	être	VRB	VRB	_	0	ROOT	_	_	98.4	98.46	L1
+11	tout	tout	ADV	ADV	_	10	COMP	_	_	98.53	99.02	L1
+12	c'	ce	CLS	CLS	_	13	SUJ	_	_	99.38	99.5	L1
+13	est	être	VRB	VRB	_	0	ROOT	_	_	99.51	99.55	L1
+14	humide	humide	ADJ	ADJ	_	13	COMP	_	_	99.56	99.98	L1
+15	ça	cela	PRO	PRO	_	16	SUJ	_	_	100.83	101.0	L1
+16	va	aller	VRB	VRB	_	0	ROOT	_	_	101.01	101.06	L1
+17	puer	puer	VNF	VNF	_	16	COMP	_	_	101.07	101.33	L1
+18	le	la	DET	DET	_	19	SPEC	_	_	101.34	101.36	L1
+19	poisson	poisson	NOM	NOM	_	17	COMP	_	_	101.37	101.74	L1
+20	demain	demain	ADV	ADV	_	19	COMP	_	_	101.75	101.93	L1
+21	chez	chez	PRE	PRE	_	19	COMP	_	_	102.07	102.14	L1
+22	moi	lui	PRO	PRO	_	21	COMP	_	_	102.15	102.29	L1
+
+1	chez	chez	PRE	PRE	_	0	ROOT	_	_	102.96	103.19	L2
+2	toi	lui	PRO	PRO	_	1	COMP	_	_	103.26	103.48	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	103.65	103.8	L1
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	104.95	105.07	L1
+2	chez	chez	PRE	PRE	_	0	ROOT	_	_	105.08	105.28	L1
+3	toi	lui	PRO	PRO	_	2	COMP	_	_	105.29	105.37	L1
+4	aussi	aussi	ADV	ADV	_	0	ROOT	_	_	105.38	105.62	L1
+5	je	je	CLS	CLS	_	6	SUJ	_	_	105.78	105.82	L1
+6	pense	penser	VRB	VRB	_	0	ROOT	_	_	105.87	106.0	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	106.08	106.46	L2
+2	tu	tu	CLS	CLS	_	3	SUJ	_	_	106.57	106.62	L2
+3	as	avoir	VRB	VRB	_	0	ROOT	_	_	106.63	106.77	L2
+
+1	il	il	CLS	CLS	_	3	SUJ	_	_	107.58	107.63	L1
+2	y	_	CLI	CLI	_	3	AFF	_	_	107.64	107.66	L1
+3	a	avoir	VRB	VRB	_	0	ROOT	_	_	107.67	107.8	L1
+4	ma	ma	DET	DET	_	5	SPEC	_	_	107.81	107.88	L1
+5	cousine	cousin	NOM	NOM	_	3	COMP	_	_	107.89	108.3	L1
+6	de	de	PRE	PRE	_	5	COMP	_	_	108.31	108.37	L1
+7	connectée	connecter	VPP	VPP	_	6	COMP	_	_	108.38	108.73	L1
+
+1	qui	_	PRQ	PRQ	_	0	ROOT	_	_	108.92	109.1	L2
+
+1	ma	ma	DET	DET	_	2	SPEC	_	_	109.48	109.53	L1
+2	cousine	cousin	NOM	NOM	_	0	ROOT	_	_	109.54	109.94	L1
+
+1	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	110.84	111.11	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	111.27	111.4	L1
+
+1	je	je	CLS	CLS	_	2	SUJ	_	_	111.95	111.97	L2
+2	sais	savoir	VRB	VRB	_	0	ROOT	_	_	111.98	112.05	L2
+3	et	et	COO	COO	_	2	COO	_	_	112.13	112.26	L2
+4	il	il	CLS	CLS	_	6	SUJ	_	_	112.34	112.43	L2
+5	y	_	CLI	CLI	_	6	AFF	_	_	112.44	112.47	L2
+6	a	avoir	VRB	VRB	_	3	COMP	_	_	112.48	112.6	L2
+7	NNAAMMEE	_	NOM	NOM	_	6	COMP	_	_	112.99	113.25	L2
+8	aussi	aussi	ADV	ADV	_	0	ROOT	_	_	113.26	113.39	L2
+
+1	chez	chez	PRE	PRE	_	0	ROOT	_	_	114.41	114.52	L2
+2	moi	lui	PRO	PRO	_	1	COMP	_	_	114.53	114.68	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	114.97	115.17	L1
+2	et	et	COO	COO	_	0	ROOT	_	_	115.52	115.57	L1
+3	en	_	CLI	CLI	_	4	COMP	_	_	115.58	115.74	L1
+4	fait	faire	VRB	VRB	_	2	COMP	_	_	115.82	115.89	L1
+5	je	je	CLS	CLS	_	6	SUJ	_	_	115.9	115.92	L1
+6	fais	faire	VRB	VRB	_	0	ROOT	_	_	115.93	115.98	L1
+7	quoi	_	PRQ	PRQ	_	6	COMP	_	_	115.99	116.09	L1
+8	je	je	CLS	CLS	_	9	SUJ	_	_	116.1	116.14	L1
+9	fais	faire	VRB	VRB	_	0	ROOT	_	_	116.15	116.2	L1
+10	quoi	_	PRQ	PRQ	_	9	COMP	_	_	116.21	116.29	L1
+
+1	tu	tu	CLS	CLS	_	2	SUJ	_	_	117.09	117.14	L2
+2	peux	pouvoir	VRB	VRB	_	0	ROOT	_	_	117.15	117.25	L2
+3	imprimer	imprimer	VNF	VNF	_	2	COMP	_	_	117.26	117.63	L2
+4	ma	ma	DET	DET	_	5	SPEC	_	_	117.69	117.84	L2
+5	photo	photo	NOM	NOM	_	3	COMP	_	_	117.85	118.13	L2
+
+1	si	si	CSU	CSU	_	0	ROOT	_	_	119.44	119.51	L1
+2	tu	tu	CLS	CLS	_	4	SUJ	_	_	119.52	119.66	L1
+3	me	me	CLI	CLI	_	4	AFF	_	_	119.67	119.74	L1
+4	montes	monter	VRB	VRB	_	1	COMP	_	_	119.75	119.96	L1
+5	l'	la	DET	DET	_	6	SPEC	_	_	119.97	119.99	L1
+6	imprimante	imprimante	NOM	NOM	_	4	COMP	_	_	120.0	120.54	L1
+
+1	oh	oh	INT	INT	_	0	ROOT	_	_	121.22	121.31	L2
+
+1	une	un	DET	DET	_	2	SPEC	_	_	124.31	124.49	L2
+2	dix	dix	NOM	NOM	_	0	ROOT	_	_	124.5	124.69	L2
+3	fois	foi	NOM	NOM	_	2	COMP	_	_	124.81	125.02	L2
+4	quinze	quinze	NOM	NOM	_	2	COMP	_	_	125.03	125.32	L2
+
+1	ça	cela	PRO	PRO	_	0	ROOT	_	_	127.16	127.43	L2
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	127.53	127.59	L1
+2	je	je	CLS	CLS	_	3	SUJ	_	_	127.6	127.62	L1
+3	suis	être	VRB	VRB	_	0	ROOT	_	_	127.63	127.71	L1
+4	en	en	PRE	PRE	_	3	COMP	_	_	127.72	127.84	L1
+5	taille	taille	NOM	NOM	_	4	COMP	_	_	127.85	128.01	L1
+6	normale	normal	ADJ	ADJ	_	5	COMP	_	_	128.02	128.48	L1
+
+1	ah#ben	ah ben	INT	INT	_	0	ROOT	_	_	129.28	129.72	L2
+2	ouais	_	ADV	ADV	_	0	ROOT	_	_	129.8	129.85	L2
+3	je	je	CLS	CLS	_	4	SUJ	_	_	129.86	129.98	L2
+4	pense	penser	VRB	VRB	_	0	ROOT	_	_	130.08	130.27	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	130.57	130.68	L1
+2	ben	ben	INT	INT	_	1	DISFLINK	_	_	130.69	131.01	L1
+3	tu	tu	CLS	CLS	_	4	SUJ	_	_	131.02	131.07	L1
+4	as	avoir	VRB	VRB	_	0	ROOT	_	_	131.08	131.1	L1
+5	autant	autant	ADV	ADV	_	4	COMP	_	_	131.11	131.19	L1
+6	la	le	CLI	CLI	_	7	COMP	_	_	131.2	131.28	L1
+7	faire	-	VNF	VNF	_	4	COMP	_	_	131.34	131.49	L1
+8	au	_	PRE	PRE	_	7	COMP	_	_	131.5	131.6	L1
+9	Leclerc	_	NOM	NOM	_	8	COMP	_	_	131.61	131.91	L1
+10	enfin	_	ADV	ADV	_	7	COMP	_	_	132.2	132.38	L1
+11	euh	euh	INT	INT	_	10	DISFLINK	_	_	132.39	132.41	L1
+12	en	en	PRE	PRE	_	11	DISFLINK	_	_	132.42	132.44	L1
+13	dans	dans	PRE	PRE	_	7	COMP	_	_	132.45	132.5	L1
+14	un	un	DET	DET	_	15	SPEC	_	_	132.51	132.53	L1
+15	magasin	magasin	NOM	NOM	_	13	COMP	_	_	132.54	132.71	L1
+
+1	et	et	COO	COO	_	0	ROOT	_	_	132.95	133.24	L2
+2	en	en	PRE	PRE	_	1	COMP	_	_	133.25	133.31	L2
+3	plus	_	ADV	ADV	_	4	COMP	_	_	133.32	133.59	L2
+4	grand	grand	ADJ	ADJ	_	0	ROOT	_	_	133.84	134.09	L2
+5	aussi	aussi	ADV	ADV	_	0	ROOT	_	_	134.15	134.28	L2
+6	en	en	PRE	PRE	_	0	ROOT	_	_	134.46	134.56	L2
+7	un#peu	_	NOM	NOM	_	6	COMP	_	_	134.57	134.66	L2
+8	plus	_	ADV	ADV	_	9	COMP	_	_	134.77	134.86	L2
+9	grand	grand	ADJ	ADJ	_	7	COMP	_	_	135.04	135.31	L2
+10	comme	_	ADV	ADV	_	0	ROOT	_	_	135.53	135.83	L2
+11	ça	cela	PRO	PRO	_	10	COMP	_	_	136.35	136.5	L2
+12	à	à	PRE	PRE	_	0	ROOT	_	_	136.68	136.8	L2
+13	peu	peu	ADV	ADV	_	14	COMP	_	_	136.81	136.93	L2
+14	près	près	ADV	ADV	_	0	ROOT	_	_	136.94	137.15	L2
+
+1	pourquoi	_	ADV	ADV	_	0	ROOT	_	_	137.95	138.26	L1
+
+1	comme	_	ADV	ADV	_	0	ROOT	_	_	138.95	139.05	L2
+2	ça	cela	PRO	PRO	_	9	SUJ	_	_	139.06	139.11	L2
+3	parce#que	parce que	CSU	CSU	_	2	COMP	_	_	139.12	139.47	L2
+4	ma	ma	DET	DET	_	5	SPEC	_	_	139.48	139.58	L2
+5	soeur	soeur	NOM	NOM	_	9	SUJ	_	_	139.65	139.83	L2
+6	elle	il	CLS	CLS	_	9	SUJ	_	_	139.84	139.89	L2
+7	en	_	CLI	CLI	_	9	COMP	_	_	139.9	140.02	L2
+8	a	avoir	VRB	VRB	_	9	AUX	_	_	140.03	140.1	L2
+9	mis	mettre	VPP	VPP	_	1	COMP	_	_	140.11	140.33	L2
+10	une	un	DET	DET	_	9	COMP	_	_	140.34	140.39	L2
+11	et	et	COO	COO	_	9	COO	_	_	140.4	140.51	L2
+12	c'	ce	CLS	CLS	_	13	SUJ	_	_	140.52	140.54	L2
+13	est	être	VRB	VRB	_	11	COMP	_	_	140.55	140.62	L2
+14	comme	_	ADV	ADV	_	13	COMP	_	_	140.63	140.84	L2
+15	ça	cela	PRO	PRO	_	13	COMP	_	_	140.85	141.02	L2
+16	c'	ce	CLS	CLS	_	17	SUJ	_	_	141.5	141.52	L2
+17	est	être	VRB	VRB	_	11	COMP	_	_	141.53	141.6	L2
+18	la	la	DET	DET	_	19	SPEC	_	_	141.61	141.68	L2
+19	taille	taille	NOM	NOM	_	17	COMP	_	_	141.69	141.84	L2
+20	de	de	PRE	PRE	_	19	COMP	_	_	141.85	141.87	L2
+21	sa	sa	DET	DET	_	22	SPEC	_	_	141.92	142.08	L2
+22	photo	photo	NOM	NOM	_	20	COMP	_	_	142.24	142.36	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	143.03	143.11	L1
+2	bien	bien	ADV	ADV	_	3	COMP	_	_	143.12	143.22	L1
+3	pourquoi	_	ADV	ADV	_	6	COMP	_	_	143.28	143.46	L1
+4	tu	tu	CLS	CLS	_	6	SUJ	_	_	143.47	143.57	L1
+5	la	le	CLI	CLI	_	6	COMP	_	_	143.58	143.63	L1
+6	veux	vouloir	VRB	VRB	_	1	COMP	_	_	143.64	143.75	L1
+7	en	en	PRE	PRE	_	6	COMP	_	_	143.76	143.88	L1
+8	dix	dix	NOM	NOM	_	7	COMP	_	_	143.89	143.98	L1
+9	fois	foi	NOM	NOM	_	8	COMP	_	_	144.17	144.33	L1
+10	quinze	quinze	NOM	NOM	_	9	COMP	_	_	144.34	144.42	L1
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	144.68	144.78	L2
+2	parce#que	parce que	CSU	CSU	_	0	ROOT	_	_	144.79	144.93	L2
+3	c'	ce	CLS	CLS	_	5	SUJ	_	_	144.94	144.96	L2
+4	était	être	VRB	VRB	_	5	AUX	_	_	144.97	145.19	L2
+5	marqué	marquer	VPP	VPP	_	2	COMP	_	_	145.2	145.5	L2
+6	ça	cela	PRO	PRO	_	5	COMP	_	_	145.51	145.6	L2
+7	dans	dans	PRE	PRE	_	5	COMP	_	_	145.61	145.76	L2
+8	le	la	DET	DET	_	9	SPEC	_	_	145.77	145.8	L2
+9	cadre	cadre	NOM	NOM	_	7	COMP	_	_	145.81	146.09	L2
+10	et	et	COO	COO	_	5	COO	_	_	146.83	146.92	L2
+11	elle	il	CLS	CLS	_	14	SUJ	_	_	146.93	146.98	L2
+12	en	_	CLI	CLI	_	14	COMP	_	_	146.99	147.02	L2
+13	a	avoir	VRB	VRB	_	14	AUX	_	_	147.03	147.05	L2
+14	mis	mettre	VPP	VPP	_	10	COMP	_	_	147.06	147.11	L2
+15	une	un	DET	DET	_	16	SPEC	_	_	147.12	147.21	L2
+16	grande	grand	ADJ	ADJ	_	14	COMP	_	_	147.22	147.33	L2
+17	et	et	COO	COO	_	0	ROOT	_	_	147.34	147.36	L2
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	147.51	147.66	L1
+2	d'	de	PRE	PRE	_	0	ROOT	_	_	147.67	147.74	L1
+3	accord	accord	NOM	NOM	_	2	COMP	_	_	147.75	148.04	L1
+
+1	et	et	COO	COO	_	0	ROOT	_	_	149.42	149.5	L2
+2	ça	cela	PRO	PRO	_	3	SUJ	_	_	149.51	149.59	L2
+3	marche	marcher	VRB	VRB	_	1	COMP	_	_	149.6	149.78	L2
+4	quand	quand	CSU	CSU	_	3	COMP	_	_	149.79	149.9	L2
+5	même	même	ADV	ADV	_	0	ROOT	_	_	149.91	150.03	L2
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	150.09	150.2	L1
+2	ce	ce	CLS	CLS	_	3	SUJ	_	_	150.21	150.26	L1
+3	sera	être	VRB	VRB	_	1	COMP	_	_	150.27	150.38	L1
+4	beaucoup	beaucoup	ADV	ADV	_	5	COMP	_	_	150.39	150.62	L1
+5	plus	_	ADV	ADV	_	6	COMP	_	_	150.7	150.83	L1
+6	beau	beau	ADJ	ADJ	_	3	COMP	_	_	150.84	150.98	L1
+7	si	si	CSU	CSU	_	3	COMP	_	_	150.99	151.14	L1
+8	tu	tu	CLS	CLS	_	10	SUJ	_	_	151.2	151.32	L1
+9	la	le	CLI	CLI	_	10	COMP	_	_	151.33	151.39	L1
+10	fais	faire	VRB	VRB	_	7	COMP	_	_	151.49	151.62	L1
+11	dans	dans	PRE	PRE	_	10	COMP	_	_	151.63	151.73	L1
+12	un	un	DET	DET	_	13	SPEC	_	_	151.85	151.87	L1
+13	magasin	magasin	NOM	NOM	_	11	COMP	_	_	151.88	152.29	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	152.39	152.63	L2
+2	elle	il	CLS	CLS	_	3	SUJ	_	_	152.73	152.8	L2
+3	veut	vouloir	VRB	VRB	_	0	ROOT	_	_	152.81	152.97	L2
+4	pas	pas	ADN	ADN	_	3	COMP	_	_	153.03	153.2	L2
+
+1	poutch	_	INT	INT	_	0	ROOT	_	_	154.28	154.62	L1
+
+1	ils	il	CLS	CLS	_	2	SUJ	_	_	154.97	155.02	L2
+2	veulent	vouloir	VRB	VRB	_	0	ROOT	_	_	155.03	155.19	L2
+3	ah	ah	INT	INT	_	2	DISFLINK	_	_	155.2	155.39	L2
+4	oui	oui	INT	INT	_	5	COMP	_	_	155.4	155.66	L2
+5	dem-~	_	ADV	ADV	_	7	COMP	_	_	155.85	156.12	L2
+6	ah#ben	ah ben	INT	INT	_	5	DISFLINK	_	_	156.13	156.36	L2
+7	non	non	INT	INT	_	0	ROOT	_	_	156.37	156.58	L2
+8	je	je	CLS	CLS	_	9	SUJ	_	_	156.59	156.71	L2
+9	peux	pouvoir	VRB	VRB	_	0	ROOT	_	_	156.72	156.85	L2
+10	pas	pas	ADN	ADN	_	9	COMP	_	_	156.86	157.01	L2
+11	lui	_	CLI	CLI	_	12	COMP	_	_	157.02	157.12	L2
+12	écrire	écrire	VNF	VNF	_	9	COMP	_	_	157.13	157.49	L2
+13	en	en	PRE	PRE	_	12	COMP	_	_	157.5	157.52	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	160.45	160.62	L1
+2	euh	euh	INT	INT	_	1	DISFLINK	_	_	160.63	160.98	L1
+3	tu	tu	CLS	CLS	_	4	SUJ	_	_	161.05	161.1	L1
+4	as	avoir	VRB	VRB	_	1	COMP	_	_	161.11	161.23	L1
+5	écris	écrire	VRB	VRB	_	1	COMP	_	_	161.24	161.45	L1
+6	à	à	PRE	PRE	_	5	COMP	_	_	161.46	161.9	L1
+7	NNAAMMEE	_	NOM	NOM	_	6	COMP	_	_	161.91	162.36	L1
+8	tu	tu	CLS	CLS	_	9	SUJ	_	_	163.2	163.26	L1
+9	veux	vouloir	VRB	VRB	_	0	ROOT	_	_	163.27	163.35	L1
+10	que	que	CSU	CSU	_	9	COMP	_	_	163.36	163.38	L1
+11	je	je	CLS	CLS	_	13	SUJ	_	_	163.39	163.48	L1
+12	lui	_	CLI	CLI	_	13	COMP	_	_	163.49	163.59	L1
+13	écrive	écrire	VRB	VRB	_	10	COMP	_	_	163.6	163.87	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	162.8	162.96	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	164.09	164.16	L2
+
+1	je	je	CLS	CLS	_	3	SUJ	_	_	165.23	165.3	L2
+2	te	te	CLI	CLI	_	3	COMP	_	_	165.31	165.4	L2
+3	dis	dire	VRB	VRB	_	0	ROOT	_	_	165.41	165.59	L2
+4	ce	_	PRO	PRO	_	3	COMP	_	_	165.6	165.63	L2
+5	qu'	qu'	PRQ	PRQ	_	7	COMP	_	_	165.64	165.66	L2
+6	il	il	CLS	CLS	_	7	SUJ	_	_	165.67	165.75	L2
+7	faut	faillir	VRB	VRB	_	4	COMP	_	_	165.76	165.85	L2
+8	mettre	mettre	VNF	VNF	_	7	COMP	_	_	165.86	166.03	L2
+
+1	non	non	INT	INT	_	0	ROOT	_	_	166.3	166.56	L1
+2	je	je	CLS	CLS	_	3	SUJ	_	_	167.12	167.15	L1
+3	connais	connaître	VRB	VRB	_	0	ROOT	_	_	167.16	167.27	L1
+4	salut	_	ADV	ADV	_	3	COMP	_	_	167.28	167.39	L1
+5	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	167.4	167.58	L1
+
+1	connais	connaître	VRB	VRB	_	0	ROOT	_	_	167.66	167.8	L2
+2	mais	mais	COO	COO	_	1	COO	_	_	168.18	168.26	L2
+3	non	non	INT	INT	_	0	ROOT	_	_	168.27	168.37	L2
+4	mais	mais	COO	COO	_	0	ROOT	_	_	168.38	168.45	L2
+5	il	il	CLS	CLS	_	6	SUJ	_	_	168.78	168.84	L2
+6	faut	faillir	VRB	VRB	_	4	COMP	_	_	168.85	168.9	L2
+7	que	que	CSU	CSU	_	6	COMP	_	_	168.91	168.93	L2
+8	je	je	CLS	CLS	_	10	SUJ	_	_	168.94	168.96	L2
+9	lui	_	CLI	CLI	_	10	COMP	_	_	168.97	169.11	L2
+10	demande	demander	VRB	VRB	_	7	COMP	_	_	169.12	169.33	L2
+11	oh	oh	INT	INT	_	10	DISFLINK	_	_	169.82	169.84	L2
+12	elle	il	CLS	CLS	_	14	SUJ	_	_	169.85	169.94	L2
+13	a	avoir	VRB	VRB	_	14	AUX	_	_	169.95	170.0	L2
+14	mis	mettre	VPP	VPP	_	10	COMP	_	_	170.01	170.15	L2
+15	sa	sa	DET	DET	_	16	SPEC	_	_	170.23	170.31	L2
+16	photo	photo	NOM	NOM	_	10	COMP	_	_	170.32	170.61	L2
+17	tu	tu	CLS	CLS	_	16	DISFLINK	_	_	170.62	170.67	L2
+18	sais	savoir	VRB	VRB	_	17	DISFLINK	_	_	170.95	171.04	L2
+19	c'	ce	CLS	CLS	_	20	SUJ	_	_	171.05	171.07	L2
+20	était	être	VRB	VRB	_	0	ROOT	_	_	171.08	171.19	L2
+21	où	où	PRQ	PRQ	_	20	COMP	_	_	171.2	171.28	L2
+22	ça	cela	PRO	PRO	_	20	SUJ	_	_	171.37	171.5	L2
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	172.26	172.3	L1
+2	est	être	VRB	VRB	_	0	ROOT	_	_	172.31	172.39	L1
+3	dans	dans	PRE	PRE	_	2	COMP	_	_	172.4	172.67	L1
+4	un	un	DET	DET	_	5	SPEC	_	_	172.73	172.88	L1
+5	mail	mail	NOM	NOM	_	3	COMP	_	_	172.89	173.05	L1
+6	de	de	PRE	PRE	_	5	COMP	_	_	173.06	173.43	L1
+7	truc	truc	NOM	NOM	_	6	COMP	_	_	173.5	173.67	L1
+8	non	non	INT	INT	_	0	ROOT	_	_	174.03	174.08	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	174.22	174.47	L2
+2	je	je	CLS	CLS	_	4	SUJ	_	_	174.51	174.63	L2
+3	te	te	CLI	CLI	_	4	COMP	_	_	174.9	174.92	L2
+4	demande	demander	VRB	VRB	_	0	ROOT	_	_	175.51	175.95	L2
+5	où	_	ADV	ADV	_	4	COMP	_	_	176.04	176.15	L2
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	177.42	177.44	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	177.45	177.49	L2
+3	à	à	PRE	PRE	_	2	COMP	_	_	177.5	177.53	L2
+4	la	la	DET	DET	_	5	SPEC	_	_	177.54	177.67	L2
+5	cité	cité	NOM	NOM	_	3	COMP	_	_	177.76	177.98	L2
+6	de	de	PRE	PRE	_	5	COMP	_	_	177.99	178.01	L2
+7	l'	la	DET	DET	_	8	SPEC	_	_	178.02	178.04	L2
+8	espace	espace	NOM	NOM	_	6	COMP	_	_	178.05	178.21	L2
+9	à	à	PRE	PRE	_	8	COMP	_	_	178.22	178.24	L2
+10	NNAAMMEE	_	NOM	NOM	_	9	COMP	_	_	178.3	178.55	L2
+
+1	waouh	_	INT	INT	_	0	ROOT	_	_	179.87	180.19	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	180.81	180.95	L1
+2	ouais	_	ADV	ADV	_	0	ROOT	_	_	180.96	181.09	L1
+3	d'	de	PRE	PRE	_	6	COMP	_	_	181.1	181.12	L1
+4	accord	accord	NOM	NOM	_	3	COMP	_	_	181.13	181.47	L1
+5	elle	il	CLS	CLS	_	6	SUJ	_	_	181.48	181.58	L1
+6	est	être	VRB	VRB	_	0	ROOT	_	_	181.59	181.62	L1
+7	à#travers	à travers	PRE	PRE	_	6	COMP	_	_	181.63	182.08	L1
+8	un	un	DET	DET	_	9	SPEC	_	_	182.09	182.12	L1
+9	hublot	hublot	NOM	NOM	_	7	COMP	_	_	182.13	182.45	L1
+10	c'	ce	CLS	CLS	_	11	SUJ	_	_	183.05	183.08	L1
+11	est	être	VRB	VRB	_	0	ROOT	_	_	183.09	183.17	L1
+12	ça	cela	PRO	PRO	_	11	COMP	_	_	183.18	183.33	L1
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	183.67	183.89	L2
+2	attends	attendre	VRB	VRB	_	0	ROOT	_	_	183.9	184.08	L2
+3	je	je	CLS	CLS	_	4	SUJ	_	_	184.09	184.16	L2
+4	sais	savoir	VRB	VRB	_	0	ROOT	_	_	184.17	184.3	L2
+5	pas	pas	ADN	ADN	_	4	COMP	_	_	184.31	184.43	L2
+
+1	non	non	INT	INT	_	0	ROOT	_	_	185.58	185.78	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	185.86	186.09	L2
+2	voilà	voilà	INT	INT	_	1	DISFLINK	_	_	186.1	186.46	L2
+3	mais	mais	COO	COO	_	0	ROOT	_	_	186.47	186.87	L2
+4	elle	lui	PRO	PRO	_	6	SUJ	_	_	186.88	186.95	L2
+5	elle	il	CLS	CLS	_	6	SUJ	_	_	186.96	187.11	L2
+6	a	avoir	VRB	VRB	_	3	COMP	_	_	187.12	187.17	L2
+7	les	la	DET	DET	_	8	SPEC	_	_	187.18	187.48	L2
+8	oreilles	oreille	NOM	NOM	_	6	COMP	_	_	187.49	187.77	L2
+9	de	de	PRE	PRE	_	8	COMP	_	_	187.78	187.92	L2
+10	je	je	CLS	CLS	_	11	SUJ	_	_	187.93	188.03	L2
+11	sais	savoir	VRB	VRB	_	0	ROOT	_	_	188.04	188.09	L2
+12	pas	pas	ADN	ADN	_	11	COMP	_	_	188.14	188.23	L2
+13	quoi	_	PRQ	PRQ	_	11	COMP	_	_	188.29	188.46	L2
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	189.54	189.74	L1
+2	elle	il	CLS	CLS	_	3	SUJ	_	_	189.75	189.88	L1
+3	a	avoir	VRB	VRB	_	1	COMP	_	_	189.89	189.95	L1
+4	pas	pas	ADN	ADN	_	3	COMP	_	_	189.96	190.13	L1
+5	d'	_	DET	DET	_	6	SPEC	_	_	190.2	190.22	L1
+6	oreille	oreille	NOM	NOM	_	3	COMP	_	_	190.23	190.53	L1
+7	c'	ce	CLS	CLS	_	8	SUJ	_	_	190.54	190.56	L1
+8	est	être	VRB	VRB	_	0	ROOT	_	_	190.57	190.59	L1
+9	des	_	DET	DET	_	10	SPEC	_	_	190.89	191.16	L1
+10	tâches	tâche	NOM	NOM	_	8	COMP	_	_	191.17	191.39	L1
+11	noires	noir	ADJ	ADJ	_	10	COMP	_	_	191.45	191.62	L1
+12	qu'	que	CSU	CSU	_	10	COMP	_	_	191.72	191.74	L1
+13	il	il	CLS	CLS	_	15	SUJ	_	_	191.75	191.8	L1
+14	y	_	CLI	CLI	_	15	AFF	_	_	191.81	191.83	L1
+15	a	avoir	VRB	VRB	_	12	COMP	_	_	191.94	191.96	L1
+16	derrière	derrière	ADV	ADV	_	15	COMP	_	_	191.97	192.14	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	193.65	193.68	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	193.69	193.77	L2
+3	NNAAMMEE	_	NOM	NOM	_	2	COMP	_	_	194.25	194.43	L2
+4	avec	avec	PRE	PRE	_	3	COMP	_	_	194.44	194.55	L2
+5	là	là	ADV	ADV	_	4	COMP	_	_	194.56	194.61	L2
+6	sur	sur	PRE	PRE	_	3	COMP	_	_	194.62	194.7	L2
+7	la	la	DET	DET	_	8	SPEC	_	_	194.71	194.8	L2
+8	photo	photo	NOM	NOM	_	6	COMP	_	_	194.81	195.05	L2
+9	ouais	_	ADV	ADV	_	0	ROOT	_	_	195.06	195.11	L2
+
+1	on	on	CLS	CLS	_	2	SUJ	_	_	196.26	196.28	L1
+2	croirait	croire	VRB	VRB	_	0	ROOT	_	_	196.29	196.67	L1
+3	NNAAMMEE	_	NOM	NOM	_	2	COMP	_	_	196.71	197.09	L1
+4	avec	avec	PRE	PRE	_	0	ROOT	_	_	197.46	197.59	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	197.71	197.78	L2
+2	non	non	INT	INT	_	1	DISFLINK	_	_	197.79	197.84	L2
+3	non	non	INT	INT	_	0	ROOT	_	_	197.85	197.92	L2
+4	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	197.93	198.18	L2
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	198.72	198.98	L1
+2	on	on	CLS	CLS	_	3	SUJ	_	_	198.99	199.26	L1
+3	croirait	croire	VRB	VRB	_	0	ROOT	_	_	199.27	199.44	L1
+4	*P7	_	NOM	NOM	_	3	COMP	_	_	199.45	199.59	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	199.67	199.74	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	199.75	199.82	L2
+3	NNAAMMEE	_	NOM	NOM	_	2	COMP	_	_	199.83	200.54	L2
+
+1	aller	aller	VNF	VNF	_	0	ROOT	_	_	201.9	202.06	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	202.16	202.27	L2
+
+1	aller	aller	VNF	VNF	_	0	ROOT	_	_	203.47	203.56	L1
+2	mais	mais	COO	COO	_	1	COO	_	_	203.57	203.62	L1
+3	le	la	DET	DET	_	2	DISFLINK	_	_	203.62	203.62	L1
+4	quel	_	DET	DET	_	0	ROOT	_	_	203.63	203.72	L1
+
+1	est-ce	_	PRQ	PRQ	_	0	ROOT	_	_	203.78	203.94	L2
+2	qu'	que	CSU	CSU	_	1	COMP	_	_	203.95	203.97	L2
+3	elle	il	CLS	CLS	_	6	SUJ	_	_	203.98	204.12	L2
+4	est	être	VRB	VRB	_	6	AUX	_	_	204.13	204.22	L2
+5	déjà	déjà	ADV	ADV	_	6	COMP	_	_	204.23	204.54	L2
+6	revenue	revenir	VPP	VPP	_	2	COMP	_	_	204.55	204.76	L2
+7	à	à	PRE	PRE	_	6	COMP	_	_	204.77	204.79	L2
+8	NNAAMMEE	_	NOM	NOM	_	7	COMP	_	_	204.8	205.02	L2
+
+1	elle	il	CLS	CLS	_	2	SUJ	_	_	212.54	212.67	L1
+2	habite	habiter	VRB	VRB	_	0	ROOT	_	_	212.68	212.97	L1
+3	où	_	ADV	ADV	_	2	COMP	_	_	212.98	213.16	L1
+
+1	j'	je	CLS	CLS	_	2	SUJ	_	_	213.55	213.65	L2
+2	ai	avoir	VRB	VRB	_	0	ROOT	_	_	213.66	213.69	L2
+3	pas	pas	ADN	ADN	_	2	COMP	_	_	213.7	213.79	L2
+4	mes	ma	DET	DET	_	5	SPEC	_	_	213.8	213.85	L2
+5	lunettes	lunette	NOM	NOM	_	2	COMP	_	_	213.86	214.22	L2
+6	à	à	PRE	PRE	_	0	ROOT	_	_	214.37	214.41	L2
+
+1	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	215.76	216.0	L2
+
+1	putain	_	INT	INT	_	0	ROOT	_	_	217.45	217.7	L1
+2	ce	ce	DET	DET	_	5	SPEC	_	_	217.75	217.85	L1
+3	mec	mec	NOM	NOM	_	2	DISFLINK	_	_	217.86	218.05	L1
+4	ah	ah	INT	INT	_	3	DISFLINK	_	_	218.12	218.35	L1
+5	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	218.81	219.22	L1
+6	tu	tu	CLS	CLS	_	7	SUJ	_	_	219.23	219.28	L1
+7	veux	vouloir	VRB	VRB	_	0	ROOT	_	_	219.29	219.35	L1
+8	lui	_	CLI	CLI	_	9	COMP	_	_	219.36	219.44	L1
+9	parler	parler	VNF	VNF	_	7	COMP	_	_	219.45	219.67	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	220.16	220.22	L2
+2	non	non	INT	INT	_	0	ROOT	_	_	220.99	221.17	L2
+3	je	je	CLS	CLS	_	5	SUJ	_	_	221.39	221.41	L2
+4	ne	ne	CLN	CLN	_	5	COMP	_	_	221.78	222.13	L2
+5	parlerai	parler	VRB	VRB	_	0	ROOT	_	_	222.14	222.53	L2
+6	pas	pas	ADN	ADN	_	5	COMP	_	_	222.54	222.7	L2
+
+1	si	si	CSU	CSU	_	0	ROOT	_	_	220.7	220.81	L1
+
+1	salut	_	ADV	ADV	_	0	ROOT	_	_	224.03	224.21	L1
+2	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	224.89	225.14	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	225.29	225.5	L2
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	225.51	225.62	L2
+3	est	être	VRB	VRB	_	0	ROOT	_	_	225.63	225.75	L2
+4	vrai	vrai	ADJ	ADJ	_	3	COMP	_	_	225.76	225.86	L2
+5	je	je	CLS	CLS	_	6	SUJ	_	_	226.22	226.24	L2
+6	rigolais	rigoler	VRB	VRB	_	0	ROOT	_	_	226.28	226.67	L2
+7	pas	pas	ADN	ADN	_	6	COMP	_	_	226.68	226.93	L2
+8	quand	quand	CSU	CSU	_	6	COMP	_	_	226.94	227.03	L2
+9	je	je	CLS	CLS	_	12	SUJ	_	_	227.04	227.16	L2
+10	t'	te	CLI	CLI	_	12	AFF	_	_	227.17	227.19	L2
+11	ai	avoir	VRB	VRB	_	12	AUX	_	_	227.29	227.32	L2
+12	dit	dire	VPP	VPP	_	8	COMP	_	_	227.33	227.38	L2
+13	euh	euh	INT	INT	_	12	DISFLINK	_	_	227.39	227.41	L2
+
+1	non	non	INT	INT	_	0	ROOT	_	_	229.25	229.51	L1
+2	je	je	CLS	CLS	_	3	SUJ	_	_	229.58	229.77	L1
+3	vais	aller	VRB	VRB	_	0	ROOT	_	_	229.78	230.04	L1
+4	juste	juste	ADV	ADV	_	3	COMP	_	_	230.05	230.22	L1
+5	oh	oh	INT	INT	_	4	DISFLINK	_	_	230.39	230.58	L1
+6	et	et	COO	COO	_	3	COO	_	_	230.59	230.61	L1
+7	si	si	CSU	CSU	_	6	COMP	_	_	230.74	230.85	L1
+8	j'	je	CLS	CLS	_	9	SUJ	_	_	230.95	231.01	L1
+9	ai	avoir	VRB	VRB	_	7	COMP	_	_	231.1	231.12	L1
+10	envie	envie	NOM	NOM	_	9	COMP	_	_	231.27	231.62	L1
+
+1	de	de	PRE	PRE	_	0	ROOT	_	_	233.71	233.83	L1
+
+1	parler	parler	VNF	VNF	_	0	ROOT	_	_	235.87	236.04	L1
+2	avec	avec	PRE	PRE	_	1	COMP	_	_	237.04	237.24	L1
+3	elle	lui	PRO	PRO	_	2	COMP	_	_	237.25	237.3	L1
+4	elle	il	CLS	CLS	_	5	SUJ	_	_	237.31	237.37	L1
+5	est	être	VRB	VRB	_	0	ROOT	_	_	237.38	237.4	L1
+6	sur	sur	PRE	PRE	_	5	COMP	_	_	237.41	237.53	L1
+7	la	la	DET	DET	_	8	SPEC	_	_	237.54	237.69	L1
+8	liste	liste	NOM	NOM	_	6	COMP	_	_	237.7	237.98	L1
+9	d'	de	PRE	PRE	_	8	COMP	_	_	237.99	238.02	L1
+10	amis	ami	NOM	NOM	_	9	COMP	_	_	238.03	238.23	L1
+11	de	de	PRE	PRE	_	10	COMP	_	_	238.24	238.3	L1
+12	la	la	DET	DET	_	13	SPEC	_	_	238.31	238.44	L1
+13	NNAAMMEE	_	NOM	NOM	_	11	COMP	_	_	238.45	238.73	L1
+
+1	qui	_	PRQ	PRQ	_	0	ROOT	_	_	239.53	239.74	L2
+
+1	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	240.18	240.77	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	241.1	241.14	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	241.18	241.29	L2
+3	vrai	vrai	ADJ	ADJ	_	2	COMP	_	_	241.3	241.45	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	241.74	241.91	L1
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	242.32	242.47	L2
+2	comment	comment?	PRQ	PRQ	_	5	COMP	_	_	242.48	242.63	L2
+3	ça	cela	PRO	PRO	_	5	SUJ	_	_	242.64	242.69	L2
+4	se	se	CLI	CLI	_	5	COMP	_	_	242.7	242.89	L2
+5	fait	faire	VRB	VRB	_	0	ROOT	_	_	242.98	243.03	L2
+
+1	je	je	CLS	CLS	_	2	SUJ	_	_	243.91	243.94	L1
+2	sais	savoir	VRB	VRB	_	0	ROOT	_	_	243.95	244.12	L1
+3	pas	pas	ADN	ADN	_	2	COMP	_	_	244.13	244.34	L1
+4	ben	ben	INT	INT	_	3	DISFLINK	_	_	244.88	244.99	L1
+5	parce#qu'	parce que	CSU	CSU	_	2	COMP	_	_	245.0	245.36	L1
+6	elle	il	CLS	CLS	_	8	SUJ	_	_	245.37	245.7	L1
+7	a	avoir	VRB	VRB	_	8	AUX	_	_	245.71	245.8	L1
+8	vue	voir	VPP	VPP	_	5	COMP	_	_	245.81	246.07	L1
+9	euh	euh	INT	INT	_	8	DISFLINK	_	_	246.08	246.23	L1
+10	dans	dans	PRE	PRE	_	8	COMP	_	_	246.24	246.54	L1
+11	la#mienne	le sien	PRO	PRO	_	10	COMP	_	_	246.55	247.06	L1
+12	donc	_	COO	COO	_	8	COO	_	_	247.07	247.15	L1
+13	euh	euh	INT	INT	_	12	DISFLINK	_	_	247.16	247.18	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	247.37	247.4	L2
+2	ouais	_	ADV	ADV	_	0	ROOT	_	_	247.41	247.46	L2
+3	voilà	voilà	INT	INT	_	2	DISFLINK	_	_	247.47	247.66	L2
+
+1	j'	je	CLS	CLS	_	2	SUJ	_	_	250.6	250.62	L1
+2	aimerais	aimer	VRB	VRB	_	0	ROOT	_	_	250.63	250.9	L1
+3	bien	bien	ADV	ADV	_	4	COMP	_	_	250.91	251.07	L1
+4	aller	aller	VNF	VNF	_	2	COMP	_	_	251.08	251.2	L1
+5	la	le	CLI	CLI	_	6	COMP	_	_	251.21	251.36	L1
+6	voir	voir	VNF	VNF	_	4	COMP	_	_	251.37	251.59	L1
+7	quand	quand	CSU	CSU	_	6	COMP	_	_	251.6	251.76	L1
+8	elle	il	CLS	CLS	_	9	SUJ	_	_	251.77	251.95	L1
+9	retournera	retourner	VRB	VRB	_	7	COMP	_	_	251.96	252.51	L1
+
+1	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	253.92	254.09	L1
+2	tu	tu	CLS	CLS	_	3	SUJ	_	_	254.53	254.59	L1
+3	viendras	venir	VRB	VRB	_	0	ROOT	_	_	254.6	255.16	L1
+4	si	si	CSU	CSU	_	3	COMP	_	_	255.24	255.32	L1
+5	tu	tu	CLS	CLS	_	6	SUJ	_	_	255.33	255.44	L1
+6	veux	vouloir	VRB	VRB	_	4	COMP	_	_	255.45	255.61	L1
+
+1	tu	tu	CLS	CLS	_	2	SUJ	_	_	256.8	256.85	L2
+2	sais	savoir	VRB	VRB	_	0	ROOT	_	_	256.86	256.91	L2
+3	on	on	CLS	CLS	_	5	SUJ	_	_	256.92	256.94	L2
+4	n'	ne	CLN	CLN	_	5	COMP	_	_	256.94	256.94	L2
+5	a	avoir	VRB	VRB	_	0	ROOT	_	_	256.95	256.97	L2
+6	pas	pas	ADN	ADN	_	5	COMP	_	_	256.98	257.06	L2
+7	des	_	DET	DET	_	8	SPEC	_	_	257.07	257.12	L2
+8	va-~	_	NOM	NOM	_	5	COMP	_	_	257.13	257.21	L2
+9	des	_	DET	DET	_	10	SPEC	_	_	257.22	257.28	L2
+10	vacances	vacance	NOM	NOM	_	5	COMP	_	_	257.29	257.75	L2
+11	à	à	PRE	PRE	_	10	COMP	_	_	257.76	257.79	L2
+12	rallonge	rallonge	NOM	NOM	_	11	COMP	_	_	257.8	258.01	L2
+
+1	oui	oui	INT	INT	_	0	ROOT	_	_	258.5	258.74	L1
+2	ben	ben	INT	INT	_	1	DISFLINK	_	_	258.75	259.1	L1
+3	eh	eh	INT	INT	_	2	DISFLINK	_	_	259.11	259.33	L1
+4	c'	ce	CLS	CLS	_	5	SUJ	_	_	259.42	259.45	L1
+5	est	être	VRB	VRB	_	0	ROOT	_	_	259.46	259.51	L1
+6	bon	bon	ADJ	ADJ	_	5	COMP	_	_	259.52	259.73	L1
+7	je	je	CLS	CLS	_	8	SUJ	_	_	259.74	259.83	L1
+8	peux	pouvoir	VRB	VRB	_	0	ROOT	_	_	259.84	259.95	L1
+9	lui	_	CLI	CLI	_	10	COMP	_	_	259.96	260.07	L1
+10	consacrer	consacrer	VNF	VNF	_	8	COMP	_	_	260.08	260.66	L1
+11	euh	euh	INT	INT	_	10	DISFLINK	_	_	260.67	260.69	L1
+12	une	une	NOM	NOM	_	10	COMP	_	_	260.7	261.47	L1
+13	heure	heure	NOM	NOM	_	12	COMP	_	_	261.48	261.69	L1
+14	non	non	INT	INT	_	0	ROOT	_	_	261.88	262.08	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	262.69	262.85	L2
+2	une	un	DET	DET	_	3	SPEC	_	_	263.07	263.21	L2
+3	heure	heure	NOM	NOM	_	5	SUJ	_	_	263.22	263.3	L2
+4	c'	ce	CLS	CLS	_	5	SUJ	_	_	263.31	263.33	L2
+5	est	être	VRB	VRB	_	0	ROOT	_	_	263.41	263.47	L2
+6	largement	largement	ADV	ADV	_	7	COMP	_	_	263.48	263.65	L2
+7	suffisant	suffisant	ADJ	ADJ	_	5	COMP	_	_	264.01	264.18	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	265.1	265.2	L1
+2	euh	euh	INT	INT	_	1	DISFLINK	_	_	265.21	265.23	L1
+3	NNAAMMEE	_	NOM	NOM	_	7	COMP	_	_	265.24	265.54	L1
+4	elle	il	CLS	CLS	_	7	SUJ	_	_	265.55	265.64	L1
+5	t'	te	CLI	CLI	_	7	AFF	_	_	265.65	265.67	L1
+6	a	avoir	VRB	VRB	_	7	AUX	_	_	265.97	266.08	L1
+7	dit	dire	VPP	VPP	_	1	COMP	_	_	266.09	266.14	L1
+8	je	je	CLS	CLS	_	9	SUJ	_	_	266.15	266.36	L1
+9	suis	être	VRB	VRB	_	1	COMP	_	_	266.37	266.67	L1
+10	à	à	PRE	PRE	_	9	COMP	_	_	266.68	266.7	L1
+11	NNAAMMEE	_	NOM	NOM	_	10	COMP	_	_	266.71	266.9	L1
+12	depuis	depuis	PRE	PRE	_	11	COMP	_	_	267.27	267.45	L1
+13	samedi	samedi	NOM	NOM	_	12	COMP	_	_	267.52	267.83	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	268.62	268.79	L2
+2	merde	_	INT	INT	_	1	DISFLINK	_	_	268.8	268.95	L2
+3	oui	oui	INT	INT	_	0	ROOT	_	_	269.08	269.13	L2
+4	c'	ce	CLS	CLS	_	5	SUJ	_	_	269.26	269.28	L2
+5	est	être	VRB	VRB	_	0	ROOT	_	_	269.29	269.4	L2
+6	vrai	vrai	ADJ	ADJ	_	5	COMP	_	_	269.41	269.63	L2
+7	ça	cela	PRO	PRO	_	5	SUJ	_	_	269.81	269.95	L2
+8	été	être	VPP	VPP	_	7	COMP	_	_	269.96	270.16	L2
+9	à	à	PRE	PRE	_	8	COMP	_	_	270.17	270.2	L2
+10	L'	la	DET	DET	_	11	SPEC	_	_	270.21	270.23	L2
+11	Envers	envers	NOM	NOM	_	9	COMP	_	_	270.24	270.61	L2
+12	demande	demande	NOM	NOM	_	11	COMP	_	_	271.08	271.4	L2
+
+1	-lui	_	ADV	ADV	_	0	ROOT	_	_	275.79	275.88	L2
+2	elle	il	CLS	CLS	_	5	SUJ	_	_	276.16	276.26	L2
+3	a	avoir	VRB	VRB	_	5	AUX	_	_	276.27	276.33	L2
+4	pas	pas	ADN	ADN	_	5	COMP	_	_	276.49	276.61	L2
+5	été	être	VPP	VPP	_	0	ROOT	_	_	276.62	276.72	L2
+
+1	à	à	PRE	PRE	_	5	COMP	_	_	280.71	280.77	L2
+2	la	la	DET	DET	_	3	SPEC	_	_	280.78	280.99	L2
+3	f-~	_	NOM	NOM	_	1	COMP	_	_	281.0	281.42	L2
+4	tu	tu	CLS	CLS	_	5	SUJ	_	_	281.51	281.76	L2
+5	as	avoir	VRB	VRB	_	0	ROOT	_	_	281.77	281.83	L2
+6	et	et	COO	COO	_	5	COO	_	_	281.84	281.88	L2
+7	demande	demander	VRB	VRB	_	6	COMP	_	_	281.89	282.07	L2
+8	lui	lui	PRO	PRO	_	7	COMP	_	_	282.08	282.2	L2
+9	si	si	CSU	CSU	_	7	COMP	_	_	282.21	282.26	L2
+10	elle	il	CLS	CLS	_	12	SUJ	_	_	282.27	282.32	L2
+11	a	avoir	VRB	VRB	_	12	AUX	_	_	282.33	282.35	L2
+12	été	être	VPP	VPP	_	9	COMP	_	_	282.36	282.56	L2
+13	à	à	PRE	PRE	_	12	COMP	_	_	282.57	282.59	L2
+14	la	la	DET	DET	_	15	SPEC	_	_	282.6	282.7	L2
+15	fac	fac	NOM	NOM	_	13	COMP	_	_	282.71	282.84	L2
+16	aujourd'	_	PRE	PRE	_	15	COMP	_	_	282.91	283.12	L2
+17	hui	_	INT	INT	_	16	DISFLINK	_	_	283.13	283.18	L2
+
+1	oh	oh	INT	INT	_	0	ROOT	_	_	292.52	292.69	L1
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	292.7	292.72	L1
+3	était	être	VRB	VRB	_	0	ROOT	_	_	292.73	292.94	L1
+4	trop	trop	ADV	ADV	_	5	COMP	_	_	292.95	293.15	L1
+5	nul	nul	ADJ	ADJ	_	3	COMP	_	_	293.16	293.42	L1
+6	le	la	DET	DET	_	7	SPEC	_	_	293.43	293.53	L1
+7	cours	cour	NOM	NOM	_	3	COMP	_	_	293.58	293.78	L1
+8	euh	euh	INT	INT	_	7	DISFLINK	_	_	293.79	293.88	L1
+9	qu'	que	CSU	CSU	_	7	COMP	_	_	293.95	293.98	L1
+10	on	on	CLS	CLS	_	12	SUJ	_	_	293.99	294.01	L1
+11	a	avoir	VRB	VRB	_	12	AUX	_	_	294.08	294.11	L1
+12	eu	avoir	VPP	VPP	_	9	COMP	_	_	294.12	294.18	L1
+13	de	de	PRE	PRE	_	12	COMP	_	_	294.27	294.29	L1
+14	quatre	quatre	NOM	NOM	_	13	COMP	_	_	294.3	294.44	L1
+15	à	à	PRE	PRE	_	12	COMP	_	_	294.45	294.5	L1
+16	six	six	NOM	NOM	_	15	COMP	_	_	294.64	294.72	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	294.99	295.01	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	295.02	295.32	L2
+3	vrai	vrai	ADJ	ADJ	_	2	COMP	_	_	295.33	295.41	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	295.63	295.82	L1
+
+1	oh#là#là	oh là là	INT	INT	_	0	ROOT	_	_	297.74	297.91	L1
+2	les	la	DET	DET	_	3	SPEC	_	_	297.92	297.97	L1
+3	dernières	dernier	ADJ	ADJ	_	0	ROOT	_	_	297.98	298.18	L1
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	298.31	298.45	L2
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	298.46	298.49	L2
+3	était	être	VRB	VRB	_	1	COMP	_	_	298.5	298.85	L2
+4	quoi	_	PRQ	PRQ	_	3	COMP	_	_	298.93	299.1	L2
+
+1	vingt	_	ADJ	ADJ	_	2	COMP	_	_	299.19	299.35	L1
+2	minutes	minute	NOM	NOM	_	0	ROOT	_	_	299.36	299.65	L1
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	299.74	299.79	L2
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	299.8	299.82	L2
+3	était	être	VRB	VRB	_	1	COMP	_	_	299.83	300.03	L2
+4	quoi	_	PRQ	PRQ	_	3	COMP	_	_	300.04	300.14	L2
+5	ce	ce	DET	DET	_	6	SPEC	_	_	300.24	300.35	L2
+6	cours	cour	NOM	NOM	_	3	SUJ	_	_	300.42	300.59	L2
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	301.6	301.62	L1
+2	est	être	VRB	VRB	_	0	ROOT	_	_	301.63	301.65	L1
+3	un	un	DET	DET	_	4	SPEC	_	_	301.66	301.81	L1
+4	cours	cour	NOM	NOM	_	2	COMP	_	_	301.82	301.95	L1
+5	qu'	qu'	PRQ	PRQ	_	0	ROOT	_	_	302.02	302.04	L1
+6	il	il	CLS	CLS	_	5	DISFLINK	_	_	302.05	302.49	L1
+7	qu'	que	CSU	CSU	_	5	DISFLINK	_	_	302.58	302.62	L1
+8	il	il	CLS	CLS	_	9	SUJ	_	_	302.63	302.7	L1
+9	fait	faire	VRB	VRB	_	7	COMP	_	_	302.71	302.8	L1
+10	toujours	toujours	ADV	ADV	_	9	COMP	_	_	302.81	303.06	L1
+11	l'	la	DET	DET	_	12	SPEC	_	_	303.07	303.09	L1
+12	appel	appel	NOM	NOM	_	9	COMP	_	_	303.1	303.36	L1
+13	donc	_	COO	COO	_	9	COO	_	_	303.4	303.49	L1
+14	tout#le#monde	tout le monde	PRO	PRO	_	16	SUJ	_	_	303.72	304.03	L1
+15	y	_	CLI	CLI	_	16	AFF	_	_	304.04	304.06	L1
+16	va	aller	VRB	VRB	_	13	COMP	_	_	304.07	304.22	L1
+
+1	et	et	COO	COO	_	0	ROOT	_	_	304.5	304.61	L2
+2	je	je	CLS	CLS	_	4	SUJ	_	_	304.62	304.64	L2
+3	me	me	CLI	CLI	_	4	AFF	_	_	304.65	304.86	L2
+4	doute	douter	VRB	VRB	_	1	COMP	_	_	304.87	304.95	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	305.44	305.52	L1
+2	il	il	CLS	CLS	_	4	SUJ	_	_	305.53	305.65	L1
+3	a	avoir	VRB	VRB	_	4	AUX	_	_	305.66	305.76	L1
+4	fait	faire	VPP	VPP	_	1	COMP	_	_	305.77	305.89	L1
+5	tout	tout	ADV	ADV	_	4	COMP	_	_	306.01	306.06	L1
+6	à	à	PRE	PRE	_	4	COMP	_	_	306.07	306.11	L1
+7	la	la	DET	DET	_	8	SPEC	_	_	306.12	306.26	L1
+8	fin	fin	NOM	NOM	_	6	COMP	_	_	306.32	306.52	L1
+9	l'	la	DET	DET	_	10	SPEC	_	_	306.53	306.55	L1
+10	appel	appel	NOM	NOM	_	4	COMP	_	_	306.61	306.72	L1
+11	en	_	CLI	CLI	_	12	COMP	_	_	307.29	307.41	L1
+12	fait	faire	VRB	VRB	_	0	ROOT	_	_	307.42	307.59	L1
+13	je	je	CLS	CLS	_	14	SUJ	_	_	307.6	307.62	L1
+14	voulais	vouloir	VRB	VRB	_	0	ROOT	_	_	307.63	307.84	L1
+15	venir	venir	VNF	VNF	_	14	COMP	_	_	307.85	308.05	L1
+16	quand	quand	CSU	CSU	_	15	COMP	_	_	308.09	308.21	L1
+17	je	je	CLS	CLS	_	18	SUJ	_	_	308.25	308.28	L1
+18	suis	être	VRB	VRB	_	16	COMP	_	_	308.29	308.6	L1
+19	euh	euh	INT	INT	_	18	DISFLINK	_	_	308.61	308.82	L1
+20	après	après	PRE	PRE	_	18	COMP	_	_	308.83	309.15	L1
+21	la	la	DET	DET	_	22	SPEC	_	_	309.16	309.29	L1
+22	pause	pause	NOM	NOM	_	20	COMP	_	_	309.3	309.56	L1
+23	je	je	CLS	CLS	_	24	SUJ	_	_	309.57	309.59	L1
+24	voulais	vouloir	VRB	VRB	_	0	ROOT	_	_	309.6	309.84	L1
+25	venir	venir	VNF	VNF	_	24	COMP	_	_	309.85	310.01	L1
+26	te	te	CLI	CLI	_	27	COMP	_	_	310.09	310.24	L1
+27	voir	voir	VNF	VNF	_	24	COMP	_	_	310.25	310.48	L1
+28	rester	rester	VNF	VNF	_	27	COMP	_	_	310.77	311.06	L1
+29	avec	avec	PRE	PRE	_	28	COMP	_	_	311.07	311.23	L1
+30	toi	lui	PRO	PRO	_	29	COMP	_	_	311.3	311.47	L1
+31	et	et	COO	COO	_	24	COO	_	_	312.47	312.67	L1
+32	euh	euh	INT	INT	_	31	DISFLINK	_	_	312.68	312.76	L1
+
+1	oh	oh	INT	INT	_	0	ROOT	_	_	306.99	306.99	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	311.9	312.01	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	312.94	312.96	L2
+2	vu	voir	VPP	VPP	_	1	COMP	_	_	312.97	313.03	L2
+3	qu'	que	CSU	CSU	_	2	COMP	_	_	313.04	313.06	L2
+4	il	il	CLS	CLS	_	6	SUJ	_	_	313.07	313.12	L2
+5	y	_	CLI	CLI	_	6	AFF	_	_	313.13	313.15	L2
+6	a	avoir	VRB	VRB	_	3	COMP	_	_	313.16	313.23	L2
+7	pas	pas	ADN	ADN	_	8	COMP	_	_	313.24	313.4	L2
+8	eu	avoir	VPP	VPP	_	3	COMP	_	_	313.41	313.47	L2
+9	l'	la	DET	DET	_	10	SPEC	_	_	313.48	313.5	L2
+10	appel	appel	NOM	NOM	_	8	COMP	_	_	313.51	313.83	L2
+11	tu	tu	CLS	CLS	_	14	SUJ	_	_	313.9	313.95	L2
+12	t'	te	CLI	CLI	_	14	COMP	_	_	314.02	314.06	L2
+13	es	être	VRB	VRB	_	14	AUX	_	_	314.07	314.15	L2
+14	dit	dire	VPP	VPP	_	0	ROOT	_	_	314.19	314.34	L2
+
+1	non	non	INT	INT	_	0	ROOT	_	_	315.13	315.25	L1
+2	non	non	INT	INT	_	1	DISFLINK	_	_	315.26	315.31	L1
+3	non	non	INT	INT	_	2	DISFLINK	_	_	315.32	315.37	L1
+4	non	non	INT	INT	_	0	ROOT	_	_	315.38	315.44	L1
+5	et	et	COO	COO	_	0	ROOT	_	_	316.41	316.44	L1
+6	j'	je	CLS	CLS	_	7	SUJ	_	_	316.45	316.48	L1
+7	allais	aller	VRB	VRB	_	5	COMP	_	_	316.49	316.69	L1
+8	partir	partir	VNF	VNF	_	7	COMP	_	_	316.7	317.05	L1
+9	oui	oui	INT	INT	_	0	ROOT	_	_	317.06	317.21	L1
+10	on	on	CLS	CLS	_	12	SUJ	_	_	317.22	317.32	L1
+11	a	avoir	VRB	VRB	_	12	AUX	_	_	317.33	317.35	L1
+12	eu	avoir	VPP	VPP	_	0	ROOT	_	_	317.36	317.47	L1
+13	une	un	DET	DET	_	14	SPEC	_	_	317.48	317.56	L1
+14	pause	pause	NOM	NOM	_	12	COMP	_	_	317.57	317.84	L1
+
+1	et	et	COO	COO	_	0	ROOT	_	_	315.5	315.52	L2
+2	tu	tu	CLS	CLS	_	4	SUJ	_	_	315.53	315.58	L2
+3	as	avoir	VRB	VRB	_	4	AUX	_	_	315.59	315.79	L2
+4	eu	avoir	VPP	VPP	_	1	COMP	_	_	315.8	315.91	L2
+5	une	un	DET	DET	_	6	SPEC	_	_	315.92	316.01	L2
+6	pause	pause	NOM	NOM	_	4	COMP	_	_	316.02	316.35	L2
+
+1	oh	oh	INT	INT	_	0	ROOT	_	_	318.22	318.25	L2
+2	tu	tu	CLS	CLS	_	5	SUJ	_	_	318.26	318.36	L2
+3	es	être	VRB	VRB	_	5	AUX	_	_	318.37	318.42	L2
+4	pas	pas	ADN	ADN	_	5	COMP	_	_	318.43	318.7	L2
+5	venu	venir	VPP	VPP	_	0	ROOT	_	_	318.71	318.86	L2
+
+1	j'	je	CLS	CLS	_	2	SUJ	_	_	319.07	319.18	L1
+2	étais	être	VRB	VRB	_	0	ROOT	_	_	319.19	319.34	L1
+3	à	à	PRE	PRE	_	2	COMP	_	_	319.35	319.43	L1
+4	l'	la	DET	DET	_	6	SPEC	_	_	319.44	319.47	L1
+5	autre	autre	ADJ	ADJ	_	6	COMP	_	_	319.48	319.56	L1
+6	bout	bout	NOM	NOM	_	3	COMP	_	_	319.63	319.68	L1
+7	de	de	PRE	PRE	_	6	COMP	_	_	319.77	319.8	L1
+8	l'	la	DET	DET	_	9	SPEC	_	_	319.81	319.83	L1
+9	ESSTIN	_	NOM	NOM	_	7	COMP	_	_	319.84	320.17	L1
+10	donc	_	COO	COO	_	2	COO	_	_	320.24	320.35	L1
+11	j'	je	CLS	CLS	_	14	SUJ	_	_	320.36	320.41	L1
+12	ai	avoir	VRB	VRB	_	14	AUX	_	_	320.42	320.45	L1
+13	pas	pas	ADN	ADN	_	14	COMP	_	_	320.46	320.56	L1
+14	venu	venir	VPP	VPP	_	10	COMP	_	_	320.57	320.88	L1
+15	venir	venir	VNF	VNF	_	14	COMP	_	_	321.0	321.16	L1
+
+1	hum	hum	INT	INT	_	0	ROOT	_	_	321.56	321.92	L2
+2	O	_	NOM	NOM	_	0	ROOT	_	_	322.78	322.8	L2
+3	K	_	NOM	NOM	_	2	COMP	_	_	322.81	323.07	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	322.27	322.29	L1
+2	il	il	CLS	CLS	_	4	SUJ	_	_	322.3	322.35	L1
+3	y	_	CLI	CLI	_	4	AFF	_	_	322.36	322.38	L1
+4	a	avoir	VRB	VRB	_	1	COMP	_	_	322.39	322.45	L1
+5	un	un	DET	DET	_	0	ROOT	_	_	322.46	322.66	L1
+
+1	et#puis	et puis	COO	COO	_	0	ROOT	_	_	325.72	326.02	L1
+2	en	_	CLI	CLI	_	3	COMP	_	_	326.03	326.16	L1
+3	fait	faire	VRB	VRB	_	1	COMP	_	_	326.17	326.33	L1
+4	quand	quand	CSU	CSU	_	3	COMP	_	_	326.34	326.56	L1
+5	euh	euh	INT	INT	_	4	DISFLINK	_	_	326.57	326.84	L1
+6	quand	quand	CSU	CSU	_	3	COMP	_	_	326.85	326.97	L1
+7	euh	euh	INT	INT	_	6	DISFLINK	_	_	327.07	327.48	L1
+8	il	il	CLS	CLS	_	10	SUJ	_	_	327.49	327.65	L1
+9	a	avoir	VRB	VRB	_	10	AUX	_	_	327.66	327.74	L1
+10	fait	faire	VPP	VPP	_	6	COMP	_	_	327.75	327.86	L1
+11	la	la	DET	DET	_	12	SPEC	_	_	327.87	328.01	L1
+12	pause	pause	NOM	NOM	_	10	COMP	_	_	328.06	328.26	L1
+13	il	il	CLS	CLS	_	15	SUJ	_	_	328.27	328.39	L1
+14	a	avoir	VRB	VRB	_	15	AUX	_	_	328.4	328.45	L1
+15	dit	dire	VPP	VPP	_	0	ROOT	_	_	328.46	328.63	L1
+16	oh	oh	INT	INT	_	15	DISFLINK	_	_	328.64	328.83	L1
+17	euh	euh	INT	INT	_	16	DISFLINK	_	_	328.84	329.46	L1
+18	ceux	celui	PRO	PRO	_	15	COMP	_	_	329.47	329.65	L1
+19	qui	_	PRQ	PRQ	_	20	SUJ	_	_	329.66	329.77	L1
+20	ont	avoir	VRB	VRB	_	18	COMP	_	_	329.78	329.83	L1
+21	envie	envie	NOM	NOM	_	20	COMP	_	_	329.84	329.97	L1
+22	de	de	PRE	PRE	_	21	COMP	_	_	330.04	330.06	L1
+23	partir	partir	VNF	VNF	_	22	COMP	_	_	330.07	330.72	L1
+24	euh	euh	INT	INT	_	23	DISFLINK	_	_	330.73	331.04	L1
+
+1	n'	ne	CLN	CLN	_	2	COMP	_	_	331.97	332.03	L1
+2	oubliez	oublier	VRB	VRB	_	0	ROOT	_	_	332.04	332.35	L1
+3	pas	pas	ADN	ADN	_	2	COMP	_	_	332.36	332.48	L1
+4	que	que	CSU	CSU	_	2	COMP	_	_	332.54	332.59	L1
+5	je	je	CLS	CLS	_	6	SUJ	_	_	332.6	332.72	L1
+6	fais	faire	VRB	VRB	_	4	COMP	_	_	332.73	332.87	L1
+7	l'	la	DET	DET	_	8	SPEC	_	_	332.88	332.92	L1
+8	appel	appel	NOM	NOM	_	6	COMP	_	_	332.93	333.25	L1
+9	à	à	PRE	PRE	_	8	COMP	_	_	333.26	333.3	L1
+10	la	la	DET	DET	_	12	SPEC	_	_	333.31	333.46	L1
+11	deuxième	deuxième	ADJ	ADJ	_	12	COMP	_	_	333.47	333.82	L1
+12	heure	heure	NOM	NOM	_	9	COMP	_	_	333.83	333.88	L1
+13	donc	_	COO	COO	_	6	COO	_	_	334.73	334.85	L1
+14	ce	_	PRO	PRO	_	0	ROOT	_	_	334.99	335.03	L1
+15	qui	_	PRQ	PRQ	_	16	SUJ	_	_	335.04	335.09	L1
+16	fait	faire	VRB	VRB	_	14	COMP	_	_	335.1	335.24	L1
+17	que	que	CSU	CSU	_	16	COMP	_	_	335.25	335.27	L1
+18	je	je	CLS	CLS	_	19	SUJ	_	_	335.28	335.38	L1
+19	suis	être	VRB	VRB	_	17	COMP	_	_	335.39	335.47	L1
+20	pas	pas	ADN	ADN	_	19	COMP	_	_	335.48	335.54	L1
+21	je	je	CLS	CLS	_	22	SUJ	_	_	335.55	335.66	L1
+22	voulais	vouloir	VRB	VRB	_	0	ROOT	_	_	335.67	335.82	L1
+23	venir	venir	VNF	VNF	_	22	COMP	_	_	335.83	336.1	L1
+24	tu	tu	CLS	CLS	_	25	SUJ	_	_	336.11	336.16	L1
+25	sais	savoir	VRB	VRB	_	0	ROOT	_	_	336.17	336.24	L1
+26	à	à	PRE	PRE	_	25	COMP	_	_	336.25	336.27	L1
+27	la	la	DET	DET	_	28	SPEC	_	_	336.28	336.33	L1
+28	pause	pause	NOM	NOM	_	26	COMP	_	_	336.34	336.47	L1
+29	et#puis	et puis	COO	COO	_	25	COO	_	_	336.48	336.65	L1
+30	euh	euh	INT	INT	_	29	DISFLINK	_	_	336.66	336.68	L1
+31	venir	venir	VNF	VNF	_	29	COMP	_	_	336.69	336.82	L1
+32	prendre	-	VNF	VNF	_	31	COMP	_	_	336.83	336.99	L1
+33	mes	ma	DET	DET	_	34	SPEC	_	_	337.0	337.05	L1
+34	affaires	affaire	NOM	NOM	_	32	COMP	_	_	337.06	337.17	L1
+35	à	à	PRE	PRE	_	34	COMP	_	_	337.18	337.2	L1
+36	l'	la	DET	DET	_	37	SPEC	_	_	337.21	337.23	L1
+37	appart	appart	NOM	NOM	_	35	COMP	_	_	337.24	337.39	L1
+
+1	oh	oh	INT	INT	_	0	ROOT	_	_	334.54	334.6	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	337.46	337.94	L2
+
+1	oui	oui	INT	INT	_	0	ROOT	_	_	339.42	339.54	L2
+2	mais	mais	COO	COO	_	0	ROOT	_	_	339.55	339.66	L2
+3	non	non	INT	INT	_	0	ROOT	_	_	339.67	340.12	L2
+4	mets	mettre	VRB	VRB	_	0	ROOT	_	_	340.13	340.34	L2
+5	lui	lui	PRO	PRO	_	4	COMP	_	_	340.35	340.64	L2
+6	oui	oui	INT	INT	_	0	ROOT	_	_	340.65	340.76	L2
+7	c'	ce	CLS	CLS	_	6	DISFLINK	_	_	340.77	340.81	L2
+8	est	être	VRB	VRB	_	7	DISFLINK	_	_	340.9	340.92	L2
+9	ce	ce	CLS	CLS	_	8	SUJ	_	_	341.02	341.14	L2
+10	que	que	CSU	CSU	_	8	COMP	_	_	341.15	341.17	L2
+11	je	je	CLS	CLS	_	12	SUJ	_	_	341.18	341.31	L2
+12	voulais	vouloir	VRB	VRB	_	10	COMP	_	_	341.36	341.52	L2
+13	te	te	CLI	CLI	_	14	COMP	_	_	341.53	341.71	L2
+14	demander	demander	VNF	VNF	_	12	COMP	_	_	341.72	342.06	L2
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	342.13	342.17	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	342.18	342.24	L2
+3	sur	sur	PRE	PRE	_	2	COMP	_	_	342.25	342.45	L2
+4	le	la	DET	DET	_	5	SPEC	_	_	342.5	342.61	L2
+5	curares	curare	NOM	NOM	_	3	COMP	_	_	342.62	343.08	L2
+6	tu	tu	CLS	CLS	_	7	SUJ	_	_	343.94	344.03	L2
+7	crois	croire	VRB	VRB	_	0	ROOT	_	_	344.04	344.22	L2
+8	qu'	que	CSU	CSU	_	7	COMP	_	_	344.23	344.25	L2
+9	on	on	CLS	CLS	_	10	SUJ	_	_	344.26	344.41	L2
+10	pourra	pouvoir	VRB	VRB	_	8	COMP	_	_	344.42	344.7	L2
+11	l'	le	CLI	CLI	_	12	COMP	_	_	344.71	344.73	L2
+12	avoir	avoir	VNF	VNF	_	10	COMP	_	_	344.74	345.11	L2
+
+1	par	par	PRE	PRE	_	0	ROOT	_	_	346.18	346.33	L2
+2	NNAAMMEE	_	NOM	NOM	_	1	COMP	_	_	347.18	347.35	L2
+3	mais	mais	COO	COO	_	1	COO	_	_	347.67	348.12	L2
+4	je	je	CLS	CLS	_	7	SUJ	_	_	348.98	349.04	L2
+5	suis	être	VRB	VRB	_	7	AUX	_	_	349.05	349.19	L2
+6	trop	trop	ADV	ADV	_	7	COMP	_	_	349.23	349.36	L2
+7	fatiguée	fatiguer	VPP	VPP	_	3	COMP	_	_	349.37	349.7	L2
+8	pour	pour	PRE	PRE	_	0	ROOT	_	_	349.74	350.03	L2
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	350.2	350.22	L1
+2	est	être	VRB	VRB	_	0	ROOT	_	_	350.23	350.33	L1
+3	sur	sur	PRE	PRE	_	2	COMP	_	_	350.34	350.52	L1
+4	le	la	DET	DET	_	5	SPEC	_	_	350.53	350.69	L1
+5	c	_	NOM	NOM	_	3	COMP	_	_	350.77	350.82	L1
+
+1	sur	sur	PRE	PRE	_	0	ROOT	_	_	357.61	357.69	L2
+2	le	la	DET	DET	_	3	SPEC	_	_	357.7	357.89	L2
+3	curares	curare	NOM	NOM	_	1	COMP	_	_	357.9	358.31	L2
+4	E	_	NOM	NOM	_	3	COMP	_	_	358.5	358.65	L2
+5	S	_	NOM	NOM	_	4	COMP	_	_	358.66	358.82	L2
+
+1	curares	curare	NOM	NOM	_	0	ROOT	_	_	359.85	360.26	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	360.95	361.1	L2
+2	voilà	voilà	INT	INT	_	1	DISFLINK	_	_	361.11	361.38	L2
+3	curare	curare	NOM	NOM	_	0	ROOT	_	_	361.65	362.23	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	363.09	363.11	L1
+2	après	après	PRE	PRE	_	0	ROOT	_	_	363.12	363.33	L1
+
+1	euh	euh	INT	INT	_	0	ROOT	_	_	364.17	364.19	L2
+2	est-ce	_	PRQ	PRQ	_	0	ROOT	_	_	364.2	364.59	L2
+3	que	que	CSU	CSU	_	0	ROOT	_	_	364.6	364.62	L2
+4	euh	euh	INT	INT	_	3	DISFLINK	_	_	364.63	364.65	L2
+5	tu	tu	CLS	CLS	_	6	SUJ	_	_	364.74	365.19	L2
+6	crois	croire	VRB	VRB	_	3	COMP	_	_	365.23	365.45	L2
+7	qu'	que	CSU	CSU	_	6	COMP	_	_	365.46	365.48	L2
+8	on	on	CLS	CLS	_	9	SUJ	_	_	365.49	365.6	L2
+9	pourra	pouvoir	VRB	VRB	_	7	COMP	_	_	365.65	365.93	L2
+10	l'	le	CLI	CLI	_	11	COMP	_	_	365.94	365.98	L2
+11	avoir	avoir	VNF	VNF	_	9	COMP	_	_	365.99	366.36	L2
+12	par	par	PRE	PRE	_	11	COMP	_	_	366.51	366.64	L2
+13	quelqu'	quelque	DET	DET	_	15	SPEC	_	_	366.74	366.97	L2
+14	un	un	DET	DET	_	15	SPEC	_	_	366.98	367.06	L2
+15	ce	_	PRO	PRO	_	12	COMP	_	_	367.73	367.83	L2
+16	qui	_	PRQ	PRQ	_	17	SUJ	_	_	367.97	368.07	L2
+17	veut	vouloir	VRB	VRB	_	15	COMP	_	_	368.17	368.23	L2
+18	dire	dire	VNF	VNF	_	17	COMP	_	_	368.51	368.85	L2
+19	par	par	PRE	PRE	_	17	COMP	_	_	369.44	369.66	L2
+20	NNAAMMEE	_	NOM	NOM	_	19	COMP	_	_	370.1	370.28	L2
+
+1	il	il	CLS	CLS	_	2	SUJ	_	_	376.03	376.08	L1
+2	va	aller	VRB	VRB	_	0	ROOT	_	_	376.09	376.14	L1
+3	falloir	falloir	VNF	VNF	_	2	COMP	_	_	376.15	376.44	L1
+4	que	que	CSU	CSU	_	3	COMP	_	_	376.45	376.58	L1
+5	je	je	CLS	CLS	_	6	SUJ	_	_	376.59	376.61	L1
+6	récupère	récupérer	VRB	VRB	_	4	COMP	_	_	376.62	377.02	L1
+7	tous	_	DET	DET	_	6	DISFLINK	_	_	377.1	377.18	L1
+8	les	la	DET	DET	_	9	SPEC	_	_	377.19	377.32	L1
+9	cours	cour	NOM	NOM	_	6	COMP	_	_	377.33	377.6	L1
+10	euh	euh	INT	INT	_	9	DISFLINK	_	_	377.61	377.8	L1
+11	par	par	PRE	PRE	_	9	COMP	_	_	377.81	377.98	L1
+12	NNAAMMEE	_	NOM	NOM	_	11	COMP	_	_	378.31	378.49	L1
+13	et	et	COO	COO	_	6	COO	_	_	378.6	378.62	L1
+14	tout	tout	PRO	PRO	_	19	SUJ	_	_	378.83	378.89	L1
+15	oh	oh	INT	INT	_	14	DISFLINK	_	_	378.99	379.04	L1
+16	merde	_	INT	INT	_	15	DISFLINK	_	_	379.05	379.28	L1
+17	j'	je	CLS	CLS	_	19	SUJ	_	_	379.29	379.36	L1
+18	ai	avoir	VRB	VRB	_	19	AUX	_	_	379.37	379.41	L1
+19	envoyé	envoyer	VPP	VPP	_	13	COMP	_	_	379.42	379.72	L1
+20	salut	_	ADV	ADV	_	19	COMP	_	_	379.73	380.03	L1
+21	j'	je	CLS	CLS	_	22	SUJ	_	_	380.04	380.12	L1
+22	ai	avoir	VRB	VRB	_	0	ROOT	_	_	380.13	380.15	L1
+23	pas	pas	ADN	ADN	_	22	COMP	_	_	380.19	380.27	L1
+24	fais	faire	VRB	VRB	_	0	ROOT	_	_	380.33	380.47	L1
+25	gaffe	gaffe	NOM	NOM	_	24	COMP	_	_	380.48	380.62	L1
+
+1	j'	je	CLS	CLS	_	4	SUJ	_	_	381.26	381.32	L1
+2	ai	avoir	VRB	VRB	_	4	AUX	_	_	382.13	382.31	L1
+3	pas	pas	ADN	ADN	_	4	COMP	_	_	382.32	382.47	L1
+4	fait	faire	VPP	VPP	_	0	ROOT	_	_	382.48	382.53	L1
+5	attention	attention	NOM	NOM	_	4	COMP	_	_	382.54	382.75	L1
+
+1	c'	ce	CLS	CLS	_	2	SUJ	_	_	382.91	382.93	L2
+2	est	être	VRB	VRB	_	0	ROOT	_	_	382.94	383.16	L2
+3	pas	pas	ADN	ADN	_	2	COMP	_	_	383.17	383.49	L2
+4	vrai	vrai	ADJ	ADJ	_	2	COMP	_	_	383.5	383.7	L2
+
+1	non	non	INT	INT	_	0	ROOT	_	_	383.8	383.87	L1
+2	non	non	INT	INT	_	1	DISFLINK	_	_	383.88	384.03	L1
+3	non	non	INT	INT	_	0	ROOT	_	_	384.1	384.16	L1
+4	mais	mais	COO	COO	_	0	ROOT	_	_	384.17	384.35	L1
+5	j'	je	CLS	CLS	_	9	SUJ	_	_	384.36	384.41	L1
+6	ai	avoir	VRB	VRB	_	9	AUX	_	_	384.42	384.47	L1
+7	même	même	ADV	ADV	_	8	COMP	_	_	384.48	384.62	L1
+8	pas	pas	ADN	ADN	_	9	COMP	_	_	384.63	384.74	L1
+9	fait	faire	VPP	VPP	_	4	COMP	_	_	384.79	384.89	L1
+10	attention	attention	NOM	NOM	_	9	COMP	_	_	384.9	385.26	L1
+
+1	tu	tu	CLS	CLS	_	5	SUJ	_	_	385.39	385.44	L2
+2	me	me	CLI	CLI	_	5	AFF	_	_	385.45	385.56	L2
+3	l'	le	CLI	CLI	_	5	COMP	_	_	385.57	385.6	L2
+4	as	avoir	VRB	VRB	_	5	AUX	_	_	385.61	385.78	L2
+5	dit	dire	VPP	VPP	_	0	ROOT	_	_	385.79	385.84	L2
+6	tu	tu	CLS	CLS	_	9	SUJ	_	_	386.03	386.08	L2
+7	m'	me	CLI	CLI	_	9	COMP	_	_	386.09	386.19	L2
+8	as	avoir	VRB	VRB	_	9	AUX	_	_	386.2	386.25	L2
+9	dit	dire	VPP	VPP	_	0	ROOT	_	_	386.26	386.45	L2
+10	oh	oh	INT	INT	_	9	DISFLINK	_	_	386.59	386.61	L2
+11	je	je	CLS	CLS	_	12	SUJ	_	_	386.62	386.65	L2
+12	vais	aller	VRB	VRB	_	0	ROOT	_	_	386.66	386.8	L2
+13	lui	_	CLI	CLI	_	14	COMP	_	_	386.81	386.91	L2
+14	envoyer	envoyer	VNF	VNF	_	12	COMP	_	_	386.96	387.22	L2
+
+1	salut	_	ADV	ADV	_	0	ROOT	_	_	387.44	387.58	L2
+
+1	menteur	menteur	NOM	NOM	_	0	ROOT	_	_	389.67	390.35	L2
+
+1	le	la	DET	DET	_	2	SPEC	_	_	393.58	393.66	L2
+2	capuchon	capuchon	NOM	NOM	_	0	ROOT	_	_	393.89	394.35	L2
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	394.57	394.73	L2
+2	elle	il	CLS	CLS	_	3	SUJ	_	_	395.21	395.31	L2
+3	est	être	VRB	VRB	_	0	ROOT	_	_	395.82	395.84	L2
+4	peut-être	peut-être	ADV	ADV	_	3	COMP	_	_	396.33	397.36	L2
+
+1	pas	pas	ADN	ADN	_	0	ROOT	_	_	398.19	398.25	L2
+
+1	repartie	repartie	NOM	NOM	_	0	ROOT	_	_	399.53	399.74	L2
+2	chez	chez	PRE	PRE	_	1	COMP	_	_	399.93	400.2	L2
+3	elle	lui	PRO	PRO	_	2	COMP	_	_	400.21	400.4	L2
+4	hein	hein	INT	INT	_	3	DISFLINK	_	_	400.41	400.51	L2
+5	encore	encore	ADV	ADV	_	0	ROOT	_	_	400.52	400.67	L2
+6	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	400.97	401.31	L2
+7	va	aller	VRB	VRB	_	0	ROOT	_	_	401.74	401.84	L2
+8	me	me	CLI	CLI	_	7	COMP	_	_	401.96	402.08	L2
+
+1	le	le	CLI	CLI	_	2	COMP	_	_	403.41	403.45	L2
+2	donner	-	VNF	VNF	_	0	ROOT	_	_	404.0	404.71	L2
+3	cool	cool	ADJ	ADJ	_	2	COMP	_	_	405.05	405.2	L2
+
+1	tu	tu	CLS	CLS	_	0	ROOT	_	_	405.44	406.24	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	406.79	407.06	L1
+2	ouais	_	ADV	ADV	_	0	ROOT	_	_	407.82	408.43	L1
+3	tu	tu	CLS	CLS	_	0	ROOT	_	_	408.44	408.49	L1
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	414.54	414.68	L2
+2	je	je	CLS	CLS	_	3	SUJ	_	_	414.69	414.77	L2
+3	croyais	croire	VRB	VRB	_	0	ROOT	_	_	414.78	415.05	L2
+4	qu'	que	CSU	CSU	_	3	COMP	_	_	415.06	415.08	L2
+5	elle	il	CLS	CLS	_	6	SUJ	_	_	415.09	415.23	L2
+6	venait	venir	VRB	VRB	_	4	COMP	_	_	415.24	415.59	L2
+7	à	à	PRE	PRE	_	0	ROOT	_	_	415.63	416.01	L2
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	416.39	416.48	L1
+2	ouais	_	ADV	ADV	_	0	ROOT	_	_	416.49	416.8	L1
+3	mais	mais	COO	COO	_	0	ROOT	_	_	416.81	416.96	L1
+4	c'	ce	CLS	CLS	_	5	SUJ	_	_	416.97	417.01	L1
+5	est	être	VRB	VRB	_	3	COMP	_	_	417.02	417.32	L1
+6	à	à	PRE	PRE	_	5	COMP	_	_	417.4	417.42	L1
+7	qui	_	PRQ	PRQ	_	6	COMP	_	_	417.43	417.51	L1
+8	m'	me	CLI	CLI	_	14	COMP	_	_	417.52	417.54	L1
+9	a	avoir	VRB	VRB	_	8	DISFLINK	_	_	417.55	417.64	L1
+10	ah	ah	INT	INT	_	9	DISFLINK	_	_	417.68	417.75	L1
+11	tiens	_	INT	INT	_	10	DISFLINK	_	_	417.76	417.98	L1
+12	j'	je	CLS	CLS	_	14	SUJ	_	_	417.99	418.06	L1
+13	ai	avoir	VRB	VRB	_	14	AUX	_	_	418.07	418.12	L1
+14	vu	voir	VPP	VPP	_	0	ROOT	_	_	418.13	418.18	L1
+15	la	la	DET	DET	_	16	SPEC	_	_	418.19	418.24	L1
+16	NNAAMMEE	_	NOM	NOM	_	14	COMP	_	_	418.25	418.42	L1
+17	au	_	PRE	PRE	_	16	COMP	_	_	418.75	418.78	L1
+18	Leclerc	_	NOM	NOM	_	17	COMP	_	_	418.79	419.02	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	419.63	419.76	L2
+2	ouais	_	ADV	ADV	_	0	ROOT	_	_	419.77	419.82	L2
+3	elle	il	CLS	CLS	_	4	SUJ	_	_	420.71	420.8	L2
+4	travaille	travailler	VRB	VRB	_	0	ROOT	_	_	420.81	421.24	L2
+5	le	la	DET	DET	_	6	SPEC	_	_	421.25	421.28	L2
+6	dimanche	dimanche	NOM	NOM	_	4	COMP	_	_	421.29	421.87	L2
+7	oh#là#là	oh là là	INT	INT	_	6	DISFLINK	_	_	422.55	422.89	L2
+8	et	et	COO	COO	_	6	COO	_	_	423.05	423.07	L2
+9	la	la	DET	DET	_	10	SPEC	_	_	423.08	423.15	L2
+10	NNAAMMEE	_	NOM	NOM	_	12	SUJ	_	_	423.16	423.35	L2
+11	ils	il	CLS	CLS	_	12	SUJ	_	_	423.7	423.75	L2
+12	travaillent	travailler	VRB	VRB	_	8	COMP	_	_	423.98	424.22	L2
+
+1	euh	euh	INT	INT	_	0	ROOT	_	_	420.46	420.48	L1
+2	dimanche	dimanche	NOM	NOM	_	0	ROOT	_	_	420.49	420.63	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	421.93	422.04	L1
+
+1	ils	il	CLS	CLS	_	2	SUJ	_	_	424.32	424.37	L1
+2	travaillent	travailler	VRB	VRB	_	0	ROOT	_	_	424.38	424.59	L1
+3	non	non	INT	INT	_	0	ROOT	_	_	424.6	424.71	L1
+4	ils	il	CLS	CLS	_	5	SUJ	_	_	424.72	424.84	L1
+5	travaillent	travailler	VRB	VRB	_	0	ROOT	_	_	424.85	425.13	L1
+6	en	en	PRE	PRE	_	5	COMP	_	_	425.14	425.2	L1
+7	opposé	opposé	NOM	NOM	_	6	COMP	_	_	425.21	425.63	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	426.03	426.05	L2
+2	d'	de	PRE	PRE	_	0	ROOT	_	_	426.19	426.22	L2
+3	accord*	_	NOM	NOM	_	2	COMP	_	_	426.23	426.34	L2
+
+1	quand	quand	CSU	CSU	_	9	COMP	_	_	427.02	427.11	L1
+2	il	il	CLS	CLS	_	4	SUJ	_	_	427.12	427.17	L1
+3	y	_	CLI	CLI	_	4	AFF	_	_	427.18	427.2	L1
+4	a	avoir	VRB	VRB	_	1	COMP	_	_	427.21	427.23	L1
+5	la	la	DET	DET	_	6	SPEC	_	_	427.24	427.29	L1
+6	NNAAMMEE	_	NOM	NOM	_	4	COMP	_	_	427.3	427.47	L1
+7	il	il	CLS	CLS	_	9	SUJ	_	_	427.7	427.75	L1
+8	y	_	CLI	CLI	_	9	AFF	_	_	427.76	427.78	L1
+9	a	avoir	VRB	VRB	_	0	ROOT	_	_	427.79	427.81	L1
+10	pas	pas	ADN	ADN	_	9	COMP	_	_	427.88	427.95	L1
+11	la	la	DET	DET	_	12	SPEC	_	_	427.96	428.06	L1
+12	NNAAMMEE	_	NOM	NOM	_	9	COMP	_	_	428.63	428.97	L1
+
+1	O	_	NOM	NOM	_	0	ROOT	_	_	429.16	429.18	L2
+2	K	_	NOM	NOM	_	1	COMP	_	_	429.26	429.31	L2
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	429.58	429.71	L2
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	429.72	429.77	L2
+3	est	être	VRB	VRB	_	0	ROOT	_	_	429.78	429.84	L2
+4	bête	bête	ADJ	ADJ	_	3	COMP	_	_	429.85	429.97	L2
+
+1	hum	hum	INT	INT	_	0	ROOT	_	_	430.49	430.66	L1
+
+1	pour	pour	PRE	PRE	_	0	ROOT	_	_	431.63	431.81	L2
+2	eux	lui	PRO	PRO	_	1	COMP	_	_	431.82	431.94	L2
+3	quoi	quoi	INT	INT	_	2	DISFLINK	_	_	431.95	432.07	L2
+
+1	oui	oui	INT	INT	_	0	ROOT	_	_	435.36	435.41	L1
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	435.42	435.44	L1
+3	est	être	VRB	VRB	_	0	ROOT	_	_	435.45	435.79	L1
+4	bon	bon	ADJ	ADJ	_	3	COMP	_	_	435.8	436.0	L1
+5	elle	il	CLS	CLS	_	6	SUJ	_	_	436.01	436.07	L1
+6	a	avoir	VRB	VRB	_	0	ROOT	_	_	436.08	436.18	L1
+7	rien	rien	PRO	PRO	_	6	COMP	_	_	436.19	436.38	L1
+8	mis	mettre	VPP	VPP	_	7	COMP	_	_	436.39	436.52	L1
+
+1	oui	oui	INT	INT	_	0	ROOT	_	_	436.6	436.75	L2
+2	et	et	COO	COO	_	0	ROOT	_	_	436.79	436.97	L2
+3	c'	ce	CLS	CLS	_	4	SUJ	_	_	437.59	437.61	L2
+4	est	être	VRB	VRB	_	2	COMP	_	_	437.74	437.87	L2
+5	est	être	VRB	VRB	_	2	COMP	_	_	437.93	438.03	L2
+
+1	-ce	ce	CLS	CLS	_	0	ROOT	_	_	438.35	438.7	L2
+2	que	que	CSU	CSU	_	0	ROOT	_	_	438.71	438.74	L2
+3	tu	tu	CLS	CLS	_	4	SUJ	_	_	438.75	438.88	L2
+4	peux	pouvoir	VRB	VRB	_	2	COMP	_	_	438.96	439.19	L2
+5	demander	demander	VNF	VNF	_	4	COMP	_	_	439.58	439.99	L2
+6	si	si	CSU	CSU	_	5	COMP	_	_	440.03	440.12	L2
+7	elle	il	CLS	CLS	_	9	SUJ	_	_	440.13	440.24	L2
+8	a	avoir	VRB	VRB	_	9	AUX	_	_	440.25	440.29	L2
+9	eu	avoir	VPP	VPP	_	6	COMP	_	_	440.3	440.39	L2
+10	des	_	DET	DET	_	11	SPEC	_	_	440.4	440.49	L2
+11	annales	annale	NOM	NOM	_	9	COMP	_	_	440.5	440.73	L2
+12	de	de	PRE	PRE	_	11	COMP	_	_	440.82	440.93	L2
+13	chimie	chimie	NOM	NOM	_	12	COMP	_	_	441.02	441.28	L2
+14	thérapeutique	thérapeutique	ADJ	ADJ	_	13	COMP	_	_	441.29	441.61	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	450.62	450.88	L2
+2	si	si	CSU	CSU	_	1	COMP	_	_	450.89	450.96	L2
+3	mercredi	mercredi	NOM	NOM	_	5	SUJ	_	_	450.97	451.55	L2
+4	elle	il	CLS	CLS	_	5	SUJ	_	_	451.56	451.7	L2
+5	peut	pouvoir	VRB	VRB	_	1	COMP	_	_	451.71	451.84	L2
+6	me	me	CLI	CLI	_	7	COMP	_	_	451.85	451.88	L2
+7	ramener	ramener	VNF	VNF	_	5	COMP	_	_	451.89	452.57	L2
+8	euh	euh	INT	INT	_	7	DISFLINK	_	_	453.22	453.26	L2
+9	le	la	DET	DET	_	8	DISFLINK	_	_	453.27	453.95	L2
+10	la	la	DET	DET	_	11	SPEC	_	_	453.96	454.16	L2
+11	partie	partie	NOM	NOM	_	7	COMP	_	_	454.17	454.75	L2
+12	euh	euh	INT	INT	_	11	DISFLINK	_	_	454.76	454.78	L2
+13	sur	sur	PRE	PRE	_	11	COMP	_	_	454.83	455.05	L2
+14	les	la	DET	DET	_	15	SPEC	_	_	455.11	455.26	L2
+15	pénicillines	pénicilline	NOM	NOM	_	13	COMP	_	_	455.27	455.83	L2
+16	des	_	DET	DET	_	17	SPEC	_	_	455.89	456.06	L2
+17	grou~	_	NOM	NOM	_	13	COMP	_	_	456.07	456.3	L2
+18	du	_	PRE	PRE	_	17	COMP	_	_	456.54	456.66	L2
+19	groupe	groupe	NOM	NOM	_	18	COMP	_	_	456.67	456.97	L2
+20	trois	_	ADJ	ADJ	_	19	COMP	_	_	456.98	457.4	L2
+21	les	la	DET	DET	_	22	SPEC	_	_	457.89	458.14	L2
+22	carboxy	_	NOM	NOM	_	20	COMP	_	_	458.15	458.93	L2
+23	euh	euh	INT	INT	_	22	DISFLINK	_	_	458.94	459.32	L2
+
+1	attends	attendre	VRB	VRB	_	0	ROOT	_	_	460.08	460.64	L1
+2	attends	attendre	VRB	VRB	_	1	DISFLINK	_	_	460.65	461.09	L1
+3	attends	attendre	VRB	VRB	_	0	ROOT	_	_	461.1	461.32	L1
+
+1	mercredi	mercredi	NOM	NOM	_	0	ROOT	_	_	461.84	462.35	L1
+2	tu	tu	CLS	CLS	_	3	SUJ	_	_	462.36	462.51	L1
+3	pourrais	pouvoir	VRB	VRB	_	0	ROOT	_	_	462.63	462.83	L1
+4	me	me	CLI	CLI	_	5	COMP	_	_	462.84	462.95	L1
+5	ramener	ramener	VNF	VNF	_	3	COMP	_	_	462.96	463.32	L1
+6	les	la	DET	DET	_	5	COMP	_	_	463.33	463.39	L1
+7	quoi	quoi	INT	INT	_	6	DISFLINK	_	_	463.4	463.69	L1
+8	les	la	DET	DET	_	9	SPEC	_	_	464.22	464.38	L1
+9	pénicillines	pénicilline	NOM	NOM	_	5	COMP	_	_	464.39	465.13	L1
+
+1	le	la	DET	DET	_	0	ROOT	_	_	465.28	465.33	L2
+2	la	la	DET	DET	_	3	SPEC	_	_	465.34	465.5	L2
+3	par~	_	NOM	NOM	_	0	ROOT	_	_	465.51	465.87	L2
+4	l-~	_	INT	INT	_	3	DISFLINK	_	_	465.97	466.29	L2
+5	le	la	DET	DET	_	6	SPEC	_	_	466.3	466.43	L2
+6	cours	cour	NOM	NOM	_	0	ROOT	_	_	466.49	466.94	L2
+
+1	le	la	DET	DET	_	2	SPEC	_	_	467.4	467.58	L1
+2	cours	cour	NOM	NOM	_	0	ROOT	_	_	467.65	467.97	L1
+
+1	sur	sur	PRE	PRE	_	0	ROOT	_	_	468.2	468.28	L2
+2	les	la	DET	DET	_	3	SPEC	_	_	468.29	468.41	L2
+3	pénicillines	pénicilline	NOM	NOM	_	1	COMP	_	_	468.42	469.07	L2
+4	du	_	PRE	PRE	_	3	COMP	_	_	469.08	469.15	L2
+5	groupe	groupe	NOM	NOM	_	4	COMP	_	_	469.16	469.27	L2
+6	trois	_	ADJ	ADJ	_	5	COMP	_	_	469.58	469.9	L2
+
+1	sur	sur	PRE	PRE	_	0	ROOT	_	_	469.39	469.51	L1
+
+1	les	la	DET	DET	_	2	SPEC	_	_	472.02	472.16	L1
+2	pénicillines	pénicilline	NOM	NOM	_	0	ROOT	_	_	472.17	472.7	L1
+3	du	_	PRE	PRE	_	2	COMP	_	_	472.94	473.03	L1
+4	groupe	groupe	NOM	NOM	_	3	COMP	_	_	473.04	473.25	L1
+5	trois	_	ADJ	ADJ	_	4	COMP	_	_	473.31	473.63	L1
+6	sur	sur	PRE	PRE	_	4	COMP	_	_	473.73	473.85	L1
+7	la	la	DET	DET	_	8	SPEC	_	_	473.86	474.0	L1
+8	partie	partie	NOM	NOM	_	6	COMP	_	_	474.01	474.26	L1
+9	quoi	quoi	INT	INT	_	8	DISFLINK	_	_	474.31	474.45	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	475.0	475.07	L2
+2	euh	euh	INT	INT	_	1	DISFLINK	_	_	475.32	475.57	L2
+3	entre	entre	PRE	PRE	_	0	ROOT	_	_	475.91	476.2	L2
+4	parenthèses	parenthèse	NOM	NOM	_	3	COMP	_	_	476.21	476.59	L2
+5	tu	tu	CLS	CLS	_	6	SUJ	_	_	476.6	476.75	L2
+6	mets	mettre	VRB	VRB	_	0	ROOT	_	_	476.76	476.92	L2
+7	carboxy	_	NOM	NOM	_	6	COMP	_	_	476.93	477.51	L2
+8	benzyl	_	ADJ	ADJ	_	7	COMP	_	_	477.52	478.0	L2
+9	pénicilline	pénicilline	NOM	NOM	_	7	COMP	_	_	478.01	478.68	L2
+
+1	attends	attendre	VRB	VRB	_	0	ROOT	_	_	478.98	479.1	L1
+2	caroboxy	_	NOM	NOM	_	1	COMP	_	_	479.46	480.11	L1
+3	benzym	_	INT	INT	_	2	DISFLINK	_	_	480.58	481.43	L1
+
+1	benzyl	_	ADJ	ADJ	_	2	COMP	_	_	482.01	482.43	L2
+2	Y	Y	NOM	NOM	_	0	ROOT	_	_	482.5	483.05	L2
+3	L	_	NOM	NOM	_	0	ROOT	_	_	483.06	483.12	L2
+4	pénicilline	pénicilline	NOM	NOM	_	3	COMP	_	_	483.74	484.39	L2
+
+1	pénicilline	pénicilline	NOM	NOM	_	0	ROOT	_	_	485.3	486.5	L1
+
+1	waouh	_	INT	INT	_	0	ROOT	_	_	488.31	488.66	L1
+
+1	il	il	CLS	CLS	_	2	SUJ	_	_	490.78	490.91	L1
+2	faut	faillir	VRB	VRB	_	0	ROOT	_	_	490.92	491.04	L1
+3	que	que	CSU	CSU	_	2	COMP	_	_	491.05	491.18	L1
+4	je	je	CLS	CLS	_	6	SUJ	_	_	491.19	491.25	L1
+5	le	le	CLI	CLI	_	6	COMP	_	_	491.26	491.38	L1
+6	rappelle	rappeler	VRB	VRB	_	3	COMP	_	_	491.39	491.72	L1
+7	oui	oui	INT	INT	_	6	DISFLINK	_	_	491.73	491.96	L1
+8	ben	ben	INT	INT	_	7	DISFLINK	_	_	491.97	492.11	L1
+9	tu	tu	CLS	CLS	_	10	SUJ	_	_	492.12	492.22	L1
+10	regarderas	regarder	VRB	VRB	_	0	ROOT	_	_	492.23	492.82	L1
+11	après	après	ADV	ADV	_	10	COMP	_	_	492.83	493.01	L1
+12	tu	tu	CLS	CLS	_	14	SUJ	_	_	493.02	493.13	L1
+13	lui	_	CLI	CLI	_	14	COMP	_	_	493.14	493.22	L1
+14	parleras	parler	VRB	VRB	_	0	ROOT	_	_	493.23	493.66	L1
+15	après	après	ADV	ADV	_	14	COMP	_	_	493.84	493.96	L1
+16	hein	hein	INT	INT	_	15	DISFLINK	_	_	493.97	493.99	L1
+
+1	et	et	COO	COO	_	0	ROOT	_	_	494.58	494.8	L2
+2	euh	euh	INT	INT	_	1	DISFLINK	_	_	494.81	494.99	L2
+
+1	elle	il	CLS	CLS	_	2	SUJ	_	_	495.91	495.96	L1
+2	remonte	remonter	VRB	VRB	_	0	ROOT	_	_	495.97	496.08	L1
+3	à	à	PRE	PRE	_	2	COMP	_	_	496.09	496.11	L1
+4	NNAAMMEE	_	NOM	NOM	_	3	COMP	_	_	496.12	496.29	L1
+5	en	en	PRE	PRE	_	4	COMP	_	_	496.3	496.32	L1
+6	Lorraine	Lorraine	NOM	NOM	_	5	COMP	_	_	496.33	496.48	L1
+7	elle	il	CLS	CLS	_	8	SUJ	_	_	496.77	496.82	L1
+8	remontera	remonter	VRB	VRB	_	0	ROOT	_	_	496.83	497.02	L1
+9	en	en	PRE	PRE	_	8	COMP	_	_	497.11	497.13	L1
+10	Lorraine	Lorraine	NOM	NOM	_	9	COMP	_	_	497.78	497.92	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	497.98	498.17	L2
+2	d'	de	PRE	PRE	_	5	COMP	_	_	498.18	498.2	L2
+3	accord	accord	NOM	NOM	_	2	COMP	_	_	498.25	498.38	L2
+4	c'	ce	CLS	CLS	_	5	SUJ	_	_	498.39	498.41	L2
+5	est	être	VRB	VRB	_	0	ROOT	_	_	498.73	498.81	L2
+6	cool	cool	ADJ	ADJ	_	5	COMP	_	_	498.82	498.96	L2
+
+1	tu	tu	CLS	CLS	_	2	SUJ	_	_	515.05	515.1	L1
+2	entends	entendre	VRB	VRB	_	0	ROOT	_	_	515.11	515.33	L1
+3	le	la	DET	DET	_	4	SPEC	_	_	515.34	515.4	L1
+4	bruit	bruit	NOM	NOM	_	2	COMP	_	_	515.41	515.6	L1
+5	qu'	qu'	PRQ	PRQ	_	7	COMP	_	_	515.61	515.65	L1
+6	on	on	CLS	CLS	_	7	SUJ	_	_	515.69	515.77	L1
+7	entend	entendre	VRB	VRB	_	4	COMP	_	_	515.78	516.03	L1
+8	là	là	ADV	ADV	_	7	COMP	_	_	516.04	516.09	L1
+9	en	en	PRE	PRE	_	7	COMP	_	_	516.1	516.22	L1
+10	bas	bas	NOM	NOM	_	9	COMP	_	_	516.23	516.33	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	516.73	516.84	L2
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	517.48	517.5	L2
+3	est	être	VRB	VRB	_	0	ROOT	_	_	517.75	518.25	L2
+4	euh	euh	INT	INT	_	3	DISFLINK	_	_	518.26	518.3	L2
+5	c'	ce	CLS	CLS	_	6	SUJ	_	_	518.82	518.84	L2
+6	est	être	VRB	VRB	_	0	ROOT	_	_	518.85	518.94	L2
+7	quoi	_	PRQ	PRQ	_	6	COMP	_	_	518.95	519.1	L2
+8	d'	de	PRE	PRE	_	6	COMP	_	_	519.11	519.17	L2
+9	ailleurs	ailleurs	ADV	ADV	_	11	COMP	_	_	519.18	519.46	L2
+10	le	la	DET	DET	_	11	SPEC	_	_	519.47	519.49	L2
+11	b~	_	NOM	NOM	_	8	COMP	_	_	519.62	519.78	L2
+12	le	la	DET	DET	_	13	SPEC	_	_	519.87	520.02	L2
+13	baby	baby	NOM	NOM	_	6	SUJ	_	_	520.03	520.25	L2
+
+1	le	la	DET	DET	_	2	SPEC	_	_	522.02	522.11	L2
+2	babyfoot	_	NOM	NOM	_	0	ROOT	_	_	522.12	522.59	L2
+
+1	qui	_	PRQ	PRQ	_	2	SUJ	_	_	523.69	523.82	L2
+2	fait	faire	VRB	VRB	_	0	ROOT	_	_	523.83	523.92	L2
+3	ça	cela	PRO	PRO	_	2	COMP	_	_	523.98	524.15	L2
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	525.09	525.14	L2
+2	si	si	CSU	CSU	_	0	ROOT	_	_	525.33	525.41	L2
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	525.8	526.02	L1
+2	oui	oui	INT	INT	_	0	ROOT	_	_	526.03	526.08	L1
+3	c'	ce	CLS	CLS	_	4	SUJ	_	_	526.09	526.11	L1
+4	est	être	VRB	VRB	_	0	ROOT	_	_	526.12	526.16	L1
+5	le	la	DET	DET	_	6	SPEC	_	_	526.17	526.37	L1
+6	babyfoot	_	NOM	NOM	_	4	COMP	_	_	526.38	526.68	L1
+7	tu	tu	CLS	CLS	_	9	SUJ	_	_	526.88	526.93	L1
+8	le	le	CLI	CLI	_	9	COMP	_	_	526.94	526.96	L1
+9	sais	savoir	VRB	VRB	_	0	ROOT	_	_	527.13	527.18	L1
+
+1	quoi	quoi	INT	INT	_	0	ROOT	_	_	527.26	527.34	L1
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	528.14	528.35	L2
+2	tu	tu	CLS	CLS	_	0	ROOT	_	_	528.36	528.41	L2
+3	le	le	CLI	CLI	_	0	ROOT	_	_	528.42	528.54	L2
+
+1	tu	tu	CLS	CLS	_	2	SUJ	_	_	528.66	528.71	L1
+2	ramèneras	ramener	VRB	VRB	_	0	ROOT	_	_	528.72	529.2	L1
+3	les	la	DET	DET	_	4	SPEC	_	_	529.21	529.27	L1
+4	cours	cour	NOM	NOM	_	2	COMP	_	_	529.28	529.46	L1
+5	sur	sur	PRE	PRE	_	4	COMP	_	_	529.84	529.94	L1
+6	la	la	DET	DET	_	7	SPEC	_	_	529.95	530.01	L1
+7	pénicilline	pénicilline	NOM	NOM	_	5	COMP	_	_	530.07	530.5	L1
+8	oui	oui	INT	INT	_	0	ROOT	_	_	530.66	530.72	L1
+9	elle	il	CLS	CLS	_	11	SUJ	_	_	530.73	531.09	L1
+10	te	te	CLI	CLI	_	11	COMP	_	_	531.1	531.18	L1
+11	rapportera	rapporter	VRB	VRB	_	0	ROOT	_	_	531.19	531.67	L1
+12	le	la	DET	DET	_	13	SPEC	_	_	531.68	531.7	L1
+13	cours	cour	NOM	NOM	_	11	COMP	_	_	531.88	532.01	L1
+14	sur	sur	PRE	PRE	_	13	COMP	_	_	532.08	532.19	L1
+15	tes	ta	DET	DET	_	16	SPEC	_	_	532.28	532.42	L1
+16	trucs	truc	NOM	NOM	_	14	COMP	_	_	532.49	532.63	L1
+
+1	merci	_	INT	INT	_	2	COMP	_	_	533.72	533.96	L2
+2	beaucoup	beaucoup	ADV	ADV	_	0	ROOT	_	_	534.04	534.24	L2
+3	NNAAMMEE	_	NOM	NOM	_	0	ROOT	_	_	534.25	534.45	L2
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	535.43	535.46	L2
+
+1	en	_	CLI	CLI	_	2	COMP	_	_	539.25	539.42	L2
+2	fait	faire	VRB	VRB	_	0	ROOT	_	_	539.47	539.55	L2
+3	ton	ta	DET	DET	_	4	SPEC	_	_	539.56	539.63	L2
+4	frère	frère	NOM	NOM	_	2	COMP	_	_	539.64	539.82	L2
+5	il	il	CLS	CLS	_	8	SUJ	_	_	540.07	540.26	L2
+6	m'	me	CLI	CLI	_	8	AFF	_	_	540.27	540.3	L2
+7	a	avoir	VRB	VRB	_	8	AUX	_	_	540.31	540.33	L2
+8	racheté	racheter	VPP	VPP	_	0	ROOT	_	_	540.34	540.63	L2
+9	un	un	DET	DET	_	10	SPEC	_	_	540.76	540.86	L2
+10	cadeau	cadeau	NOM	NOM	_	8	COMP	_	_	540.87	540.99	L2
+11	de	de	PRE	PRE	_	10	COMP	_	_	541.0	541.02	L2
+12	Noël	_	NOM	NOM	_	11	COMP	_	_	541.03	541.2	L2
+
+1	hein	hein	INT	INT	_	0	ROOT	_	_	542.74	542.91	L2
+
+1	je	je	CLS	CLS	_	2	SUJ	_	_	543.72	543.81	L1
+2	sais	savoir	VRB	VRB	_	0	ROOT	_	_	543.82	544.04	L1
+3	pas	pas	ADN	ADN	_	2	COMP	_	_	544.05	544.11	L1
+4	moi	lui	PRO	PRO	_	2	SUJ	_	_	544.12	544.36	L1
+
+1	ben	ben	INT	INT	_	0	ROOT	_	_	545.05	545.26	L2
+2	si	si	CSU	CSU	_	0	ROOT	_	_	545.33	545.51	L2
+3	si	si	CSU	CSU	_	0	ROOT	_	_	545.52	545.62	L2
+4	tu	tu	CLS	CLS	_	5	SUJ	_	_	545.69	545.78	L2
+5	veux	vouloir	VRB	VRB	_	3	COMP	_	_	545.79	545.92	L2
+6	pas	pas	ADN	ADN	_	5	COMP	_	_	545.93	546.11	L2
+7	que	que	CSU	CSU	_	5	COMP	_	_	546.12	546.26	L2
+8	je	je	CLS	CLS	_	9	SUJ	_	_	546.27	546.39	L2
+9	sois	être	VRB	VRB	_	7	COMP	_	_	546.4	546.53	L2
+10	pas	pas	ADN	ADN	_	9	COMP	_	_	546.54	546.66	L2
+11	quand	quand	CSU	CSU	_	9	COMP	_	_	546.67	546.78	L2
+12	téléphone	téléphone	NOM	NOM	_	9	COMP	_	_	546.79	547.01	L2
+
+1	il	il	CLS	CLS	_	2	SUJ	_	_	547.07	547.65	L1
+2	faut	faillir	VRB	VRB	_	0	ROOT	_	_	547.83	547.92	L1
+
+1	qu'	que	CSU	CSU	_	0	ROOT	_	_	548.95	548.97	L1
+2	on	on	CLS	CLS	_	3	SUJ	_	_	549.25	549.54	L1
+3	fasse	faire	VRB	VRB	_	1	COMP	_	_	549.55	549.71	L1
+4	les	la	DET	DET	_	3	DISFLINK	_	_	549.81	550.43	L1
+5	les	la	DET	DET	_	3	COMP	_	_	550.44	550.62	L1
+6	qu'	que	CSU	CSU	_	3	COMP	_	_	550.68	550.7	L1
+7	on	on	CLS	CLS	_	8	SUJ	_	_	550.71	550.84	L1
+8	regarde	regarder	VRB	VRB	_	6	COMP	_	_	550.85	551.58	L1
+9	euh	euh	INT	INT	_	8	DISFLINK	_	_	551.63	551.65	L1
+
+1	qui	_	PRQ	PRQ	_	0	ROOT	_	_	551.85	552.11	L1
+2	combien	_	ADV	ADV	_	8	COMP	_	_	552.12	552.49	L1
+3	que	que	CSU	CSU	_	2	COMP	_	_	552.5	552.52	L1
+4	je	je	CLS	CLS	_	6	SUJ	_	_	552.64	552.66	L1
+5	te	te	CLI	CLI	_	6	COMP	_	_	552.67	552.78	L1
+6	dois	devoir	VRB	VRB	_	3	COMP	_	_	552.79	552.99	L1
+7	et	et	COO	COO	_	6	COO	_	_	553.0	553.07	L1
+8	combien	_	ADV	ADV	_	0	ROOT	_	_	553.08	553.26	L1
+9	que	que	CSU	CSU	_	8	COMP	_	_	553.27	553.34	L1
+10	tu	tu	CLS	CLS	_	12	SUJ	_	_	553.45	553.51	L1
+11	me	me	CLI	CLI	_	12	COMP	_	_	553.52	553.54	L1
+12	dois	devoir	VRB	VRB	_	9	COMP	_	_	553.55	553.75	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	555.17	555.22	L2
+2	les	la	DET	DET	_	3	SPEC	_	_	555.23	555.28	L2
+3	bons	bon	NOM	NOM	_	0	ROOT	_	_	555.29	555.4	L2
+4	comptes	compte	NOM	NOM	_	3	COMP	_	_	555.41	555.56	L2
+5	font	faire	VRB	VRB	_	0	ROOT	_	_	555.68	555.75	L2
+6	les	la	DET	DET	_	7	SPEC	_	_	555.76	555.82	L2
+7	bons	bon	NOM	NOM	_	5	COMP	_	_	556.0	556.15	L2
+8	amis	ami	NOM	NOM	_	7	COMP	_	_	556.16	556.84	L2
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	557.19	557.35	L1
+
+1	alors	alors	ADV	ADV	_	0	ROOT	_	_	561.11	561.65	L1
+2	tu	tu	CLS	CLS	_	5	SUJ	_	_	561.66	561.71	L1
+3	m'	me	CLI	CLI	_	5	COMP	_	_	561.72	561.75	L1
+4	as	avoir	VRB	VRB	_	5	AUX	_	_	561.76	561.85	L1
+5	donné	donner	VPP	VPP	_	0	ROOT	_	_	562.12	562.35	L1
+
+1	soixante	soixante	NOM	NOM	_	0	ROOT	_	_	565.31	565.71	L1
+2	pour	pour	PRE	PRE	_	1	COMP	_	_	565.72	565.93	L1
+3	mes	ma	DET	DET	_	4	SPEC	_	_	565.94	566.05	L1
+4	parents	parent	NOM	NOM	_	2	COMP	_	_	566.06	566.4	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	567.16	567.3	L2
+2	faut	faillir	VRB	VRB	_	0	ROOT	_	_	567.41	567.46	L2
+3	que	que	CSU	CSU	_	2	COMP	_	_	567.47	567.5	L2
+4	tu	tu	CLS	CLS	_	5	SUJ	_	_	567.51	567.62	L2
+5	rajoutes	rajouter	VRB	VRB	_	3	COMP	_	_	567.63	567.89	L2
+6	dix	dix	NOM	NOM	_	5	COMP	_	_	567.9	568.2	L2
+
+1	hum	hum	INT	INT	_	0	ROOT	_	_	570.69	571.25	L1
+
+1	et	et	COO	COO	_	0	ROOT	_	_	571.51	571.65	L2
+2	dix	dix	NOM	NOM	_	1	COMP	_	_	571.74	571.82	L2
+
+1	oui	oui	INT	INT	_	0	ROOT	_	_	573.19	573.38	L1
+2	ch-~	_	NOM	NOM	_	0	ROOT	_	_	573.39	573.58	L1
+3	on	on	CLS	CLS	_	4	SUJ	_	_	573.59	573.78	L1
+4	peut	pouvoir	VRB	VRB	_	0	ROOT	_	_	573.79	573.91	L1
+5	rien	rien	PRO	PRO	_	4	COMP	_	_	573.92	574.24	L1
+6	se	se	CLI	CLI	_	7	AFF	_	_	574.25	574.27	L1
+7	devoir	devoir	VNF	VNF	_	4	COMP	_	_	574.31	574.59	L1
+8	puisqu'	puisque	CSU	CSU	_	7	COMP	_	_	574.6	574.78	L1
+9	on	on	CLS	CLS	_	11	SUJ	_	_	574.84	574.9	L1
+10	n'	ne	CLN	CLN	_	11	COMP	_	_	574.91	574.93	L1
+11	a	avoir	VRB	VRB	_	8	COMP	_	_	574.94	574.97	L1
+12	rien	rien	PRO	PRO	_	11	COMP	_	_	574.98	575.22	L1
+13	acheté	acheter	VPP	VPP	_	12	COMP	_	_	575.23	575.48	L1
+14	encore	encore	ADV	ADV	_	12	COMP	_	_	575.49	575.72	L1
+
+1	mais	mais	COO	COO	_	0	ROOT	_	_	576.07	576.31	L2
+2	si	si	CSU	CSU	_	1	COMP	_	_	577.2	577.25	L2
+3	mais	mais	COO	COO	_	0	ROOT	_	_	577.67	577.9	L2
+4	oui	oui	INT	INT	_	0	ROOT	_	_	577.91	578.21	L2
+5	mais	mais	COO	COO	_	0	ROOT	_	_	578.22	578.39	L2
+6	moi	lui	PRO	PRO	_	8	SUJ	_	_	578.4	578.54	L2
+7	je	je	CLS	CLS	_	8	SUJ	_	_	578.55	578.67	L2
+8	dois	devoir	VRB	VRB	_	5	COMP	_	_	578.68	578.89	L2
+9	ton	ta	DET	DET	_	10	SPEC	_	_	579.07	579.24	L2
+10	frère	frère	NOM	NOM	_	8	COMP	_	_	579.25	579.51	L2
+11	il	il	CLS	CLS	_	12	SUJ	_	_	579.59	579.65	L2
+12	doit	devoir	VRB	VRB	_	5	COMP	_	_	579.66	579.81	L2
+13	me	me	CLI	CLI	_	14	COMP	_	_	579.82	579.89	L2
+14	rembourser	rembourser	VNF	VNF	_	12	COMP	_	_	579.9	580.32	L2
+15	la	la	DET	DET	_	16	SPEC	_	_	580.33	580.43	L2
+16	moitié	moitié	NOM	NOM	_	14	COMP	_	_	580.44	580.74	L2
+
+1	parce#que	parce que	CSU	CSU	_	0	ROOT	_	_	580.8	580.94	L1
+2	en	_	CLI	CLI	_	3	COMP	_	_	580.95	581.02	L1
+3	fait	faire	VRB	VRB	_	1	COMP	_	_	581.1	581.17	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	582.44	582.65	L1
+2	mais	mais	COO	COO	_	0	ROOT	_	_	582.66	582.73	L1
+3	on	on	CLS	CLS	_	4	SUJ	_	_	582.74	582.81	L1
+4	verra	voir	VRB	VRB	_	2	COMP	_	_	582.82	583.09	L1
+5	ça	cela	PRO	PRO	_	4	COMP	_	_	583.19	583.27	L1
+6	demain	demain	ADV	ADV	_	4	COMP	_	_	583.28	583.37	L1
+7	en	_	CLI	CLI	_	8	COMP	_	_	583.38	583.4	L1
+8	fait	faire	VRB	VRB	_	2	COMP	_	_	583.41	583.47	L1
+9	quand	quand	CSU	CSU	_	8	COMP	_	_	583.48	583.54	L1
+10	on	on	CLS	CLS	_	12	SUJ	_	_	583.55	583.58	L1
+11	aura	avoir	VRB	VRB	_	12	AUX	_	_	583.59	583.69	L1
+12	acheté	acheter	VPP	VPP	_	9	COMP	_	_	583.84	583.95	L1
+
+1	quand	quand	CSU	CSU	_	0	ROOT	_	_	584.34	584.44	L2
+2	on	on	CLS	CLS	_	0	ROOT	_	_	584.48	584.61	L2
+3	les	la	DET	DET	_	2	DISFLINK	_	_	584.62	584.69	L2
+4	les	la	DET	DET	_	5	SPEC	_	_	584.7	584.82	L2
+5	achats	achat	NOM	NOM	_	0	ROOT	_	_	584.92	585.29	L2
+6	oui	oui	INT	INT	_	0	ROOT	_	_	585.3	585.47	L2
+7	mais	mais	COO	COO	_	0	ROOT	_	_	585.63	585.87	L2
+8	demain	demain	ADV	ADV	_	11	COMP	_	_	586.12	586.53	L2
+9	on	on	CLS	CLS	_	11	SUJ	_	_	586.54	586.72	L2
+10	n'	ne	CLN	CLN	_	11	COMP	_	_	586.72	586.72	L2
+11	ira	aller	VRB	VRB	_	7	COMP	_	_	586.73	586.92	L2
+12	pas	pas	ADN	ADN	_	11	COMP	_	_	586.93	587.01	L2
+13	encore	encore	ADV	ADV	_	11	COMP	_	_	587.02	587.26	L2
+
+1	et	et	COO	COO	_	0	ROOT	_	_	587.93	587.95	L1
+2	pourquoi	_	ADV	ADV	_	0	ROOT	_	_	587.96	588.2	L1
+
+1	parce#que	parce que	CSU	CSU	_	0	ROOT	_	_	589.18	589.37	L2
+
+1	eh#ben	eh ben	INT	INT	_	0	ROOT	_	_	589.75	589.86	L1
+2	on	on	CLS	CLS	_	3	SUJ	_	_	589.87	590.02	L1
+3	ira	aller	VRB	VRB	_	0	ROOT	_	_	590.03	590.19	L1
+4	quand	quand	CSU	CSU	_	3	COMP	_	_	590.2	590.34	L1
+5	jeudi	jeudi	NOM	NOM	_	0	ROOT	_	_	590.43	590.81	L1
+
+1	jeudi	jeudi	NOM	NOM	_	0	ROOT	_	_	591.44	591.64	L2
+2	il	il	CLS	CLS	_	4	SUJ	_	_	591.65	591.69	L2
+3	y	_	CLI	CLI	_	4	AFF	_	_	591.7	591.87	L2
+4	a	avoir	VRB	VRB	_	0	ROOT	_	_	591.88	591.93	L2
+5	NNAAMMEE	_	NOM	NOM	_	4	COMP	_	_	592.61	592.78	L2
+
+1	elle	il	CLS	CLS	_	2	SUJ	_	_	593.04	593.04	L1
+2	est	être	VRB	VRB	_	0	ROOT	_	_	593.04	593.04	L1
+3	déjà	déjà	ADV	ADV	_	4	COMP	_	_	593.04	593.04	L1
+4	là	là	ADV	ADV	_	2	COMP	_	_	593.04	593.04	L1
+5	l'	la	DET	DET	_	6	SPEC	_	_	593.05	593.05	L1
+6	aprem	_	NOM	NOM	_	2	COMP	_	_	593.05	593.05	L1
+7	non	non	INT	INT	_	6	DISFLINK	_	_	593.05	593.05	L1
+8	mais	mais	COO	COO	_	2	COO	_	_	593.05	593.05	L1
+9	il	il	CLS	CLS	_	8	DISFLINK	_	_	593.05	593.05	L1
+10	y	_	CLI	CLI	_	9	COMP	_	_	593.05	593.05	L1
+
+1	la	la	DET	DET	_	2	SPEC	_	_	594.81	594.86	L1
+2	réunion	réunion	NOM	NOM	_	0	ROOT	_	_	594.87	595.21	L1
+3	l'	la	DET	DET	_	4	SPEC	_	_	595.22	595.24	L1
+4	aprem	_	NOM	NOM	_	0	ROOT	_	_	595.25	595.59	L1
+5	non	non	INT	INT	_	0	ROOT	_	_	596.15	596.24	L1
+
+1	non	non	INT	INT	_	0	ROOT	_	_	595.95	596.02	L2
+2	c'	ce	CLS	CLS	_	3	SUJ	_	_	596.03	596.05	L2
+3	est	être	VRB	VRB	_	0	ROOT	_	_	596.06	596.08	L2
+4	vendredi	vendredi	NOM	NOM	_	3	COMP	_	_	596.3	596.66	L2
+5	aprem	_	NOM	NOM	_	4	COMP	_	_	596.67	596.99	L2
+
+1	eh#ben	eh ben	INT	INT	_	0	ROOT	_	_	598.22	598.61	L1
+2	jeudi	jeudi	NOM	NOM	_	0	ROOT	_	_	598.62	598.88	L1
+3	moi	lui	PRO	PRO	_	5	SUJ	_	_	598.99	599.15	L1
+4	j'	je	CLS	CLS	_	5	SUJ	_	_	599.16	599.28	L1
+5	ai	avoir	VRB	VRB	_	0	ROOT	_	_	599.29	599.37	L1
+6	pas	pas	ADN	ADN	_	5	COMP	_	_	599.38	599.54	L1
+7	cours	cour	NOM	NOM	_	5	COMP	_	_	599.66	599.85	L1
+
+1	ah	ah	INT	INT	_	0	ROOT	_	_	599.89	599.99	L1
+2	non	non	INT	INT	_	0	ROOT	_	_	600.0	600.25	L1
+3	jeudi	jeudi	NOM	NOM	_	0	ROOT	_	_	600.67	600.93	L1
+
+1	j'	je	CLS	CLS	_	2	SUJ	_	_	602.23	602.31	L1
+2	ai	avoir	VRB	VRB	_	0	ROOT	_	_	602.32	602.62	L1
+3	rendez-vous	rendez-vous	NOM	NOM	_	2	COMP	_	_	602.63	603.09	L1
+4	chez	chez	PRE	PRE	_	3	COMP	_	_	603.1	603.2	L1
+5	le	la	DET	DET	_	6	SPEC	_	_	603.21	603.25	L1
+6	dentiste	dentiste	NOM	NOM	_	4	COMP	_	_	603.26	603.6	L1
+7	à	à	PRE	PRE	_	6	COMP	_	_	603.81	603.85	L1
+8	NNAAMMEE	_	NOM	NOM	_	7	COMP	_	_	604.33	604.54	L1
+9	chez	chez	PRE	PRE	_	6	COMP	_	_	604.61	604.78	L1
+10	moi	lui	PRO	PRO	_	9	COMP	_	_	604.85	604.96	L1
+
+1	à	à	PRE	PRE	_	0	ROOT	_	_	605.85	605.97	L2
+2	quelle	_	DET	DET	_	3	SPEC	_	_	605.98	606.11	L2
+3	heure	heure	NOM	NOM	_	1	COMP	_	_	606.12	606.33	L2
+
+1	à	à	PRE	PRE	_	0	ROOT	_	_	606.8	606.82	L1
+2	dix	_	DET	DET	_	3	SPEC	_	_	606.83	606.98	L1
+3	heures	heure	NOM	NOM	_	1	COMP	_	_	607.03	607.12	L1
+4	quarante-cinq	_	ADJ	ADJ	_	3	COMP	_	_	607.21	607.67	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	608.21	608.31	L2
+2	mais	mais	COO	COO	_	0	ROOT	_	_	608.32	608.43	L2
+3	tu	tu	CLS	CLS	_	4	SUJ	_	_	608.44	608.49	L2
+4	as	avoir	VRB	VRB	_	2	COMP	_	_	608.5	608.56	L2
+5	le	la	DET	DET	_	6	SPEC	_	_	608.57	608.6	L2
+6	rendez-vous	rendez-vous	NOM	NOM	_	4	COMP	_	_	608.61	609.02	L2
+7	plus	_	ADV	ADV	_	8	COMP	_	_	609.03	609.2	L2
+8	tard	tard	ADV	ADV	_	4	COMP	_	_	609.21	609.38	L2
+
+1	à	à	PRE	PRE	_	0	ROOT	_	_	610.42	610.46	L1
+2	mi~	_	NOM	NOM	_	1	COMP	_	_	610.47	610.63	L1
+3	à	à	PRE	PRE	_	0	ROOT	_	_	610.71	610.73	L1
+4	quatorze	_	DET	DET	_	5	SPEC	_	_	610.74	611.01	L1
+5	heures	heure	NOM	NOM	_	3	COMP	_	_	611.02	611.07	L1
+
+1	ouais	_	ADV	ADV	_	0	ROOT	_	_	611.29	611.34	L2
+2	voilà	voilà	INT	INT	_	1	DISFLINK	_	_	611.35	611.51	L2
+

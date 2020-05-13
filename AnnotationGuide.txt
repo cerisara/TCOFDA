@@ -1,0 +1,79 @@
+Les actes de dialogue utilisés pour l'annotation sont les suivants:
+
+I inform
+A agree
+D disagree
+E exclamation
+G greetings
+B backchannel
+BB onomatopée
+THX thanks
+
+R requete: demande qqchose avec une declarative
+QO question open
+RO reponse open
+
+QY question yes/no
+Y reponse yes
+N reponse no
+
+QX question pas compris: "qu'est-ce que tu as dit ?"
+RC reponse-clarification = repeter
+
+RZ reponse qui ne repond pas a la question: "tu m'énerves à demander ça"
+
+O ordre (= performative other plus directive que suggest - difficile a distinguer, devrait etre mergees)
+S suggest (= performative other po)
+PS performative-self: je m'engage a faire ca
+RP repete pour inciter à continuer la conversation: "alors tu dis ca..."
+
+---
+
+Après annotation, les actes sont regroupés de la manière suivante:
+
+Apres regroupement:
+12 DAs:
+
+I
+A
+D
+B BB E RP
+G THX
+R
+QO QX
+RO RC RZ
+QY
+Y
+N
+S O PS
+
+---
+
+Observations pendant l'annotation:
+
+- on a des dialogues tes differents selon les fichiers, avec des distributions de DAs différentes
+- les biais/spécificités des corpus de DA rendent les modèles peu transférables entre corpus: ex: SWDA a de la ponctuation;
+
+One of the dialog involves a child who is drawing, while an adult talk with her and observe her.
+This leads to very specific turns sequences, because the child is sometimes concentrated on her task and may not
+pay attention to what the adult is saying. This leads to disruptions in the semantic coherence of the sequence of turns.
+Furthermore, the child sometimes rejects the questions that the adult is asking her, because they distract her; then she
+says for instance "oh, please stop asking so many questions, you're boring".
+Another effect is that the adult often repeats the last words of the child, because she feels that the child is slowly
+forgetting what she was saying, so the adult is then remmebering her her last words to invite her to finish her thought.
+
+In another dialog, two teenagers are talking about their friends and about their courses; but at the same time, one of
+the teenager is also sending SMS to another friend. This situation also leads to very specific types of dialogue acts
+sequence. For instance, at some point, one teenager is dictating to her friend what she should type on a phone. This leads
+to several performative acts in a row, but also frequent interruptions because the words to write are quite long and difficult,
+which leads to repeted sequences with several requests for confirmation and/or corrections.
+At another times, the semantic coherence of the dialogue is also broken, because some message appears on the phone: this leads
+to forgetting about the current topic and to an instantaneous switch to another topic. The phone actually acts like another
+people involved in the dialogue, but who does not hear what the teenagers are saying.
+In a way, it's just like two independent conversations are taking place simultaneously, which partly involve the same speakers,
+who are thus switching from one conversation to the other.
+
+Furthermore, all of these dialogues have been recorded after initial greetings between speakers, so there are neither
+initial greetings nor final good byes.
+
+
